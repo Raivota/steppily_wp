@@ -15,6 +15,10 @@
 /wp-content/cache/
 /wp-content/upgrade/
 /wp-content/backup-*/
+/wp-content/upgrade-temp-backup/
+/wp-content/wflogs/
+/wp-content/updraft/
+/wp-content/ai1wm-backups/
 
 # local/editor
 .vscode/

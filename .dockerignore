@@ -1,0 +1,13 @@
+.git
+.gitignore
+.env
+.env.local
+backups
+wp-content/uploads
+wp-content/cache
+wp-content/upgrade
+wp-content/upgrade-temp-backup
+wp-content/wflogs
+wp-content/updraft
+node_modules
+vendor
