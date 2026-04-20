@@ -1,0 +1,4809 @@
+# <!=Copyright (C) 2021 Purethemes
+# This file is distributed under the ThemeForest.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: WorkScout 2.0.32\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/style\n"
+"POT-Creation-Date: 2021-03-15 13:09:37+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2023-07-26 20:49+0000\n"
+"Last-Translator: \n"
+"Language-Team: Eesti\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Language: et\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Loco-Version: 2.6.4; wp-6.2.2"
+
+#: job_manager/content-single-job_listing.php:258
+#: template-parts/single-job-classic.php:338 template-parts/single-job.php:453
+msgid " / hour"
+msgstr "/ tunnis"
+
+#: template-home-old.php:102
+msgid " Or browse job offers by <a href=\"%s\">category</a>"
+msgstr ""
+
+#: inc/customizer/contact.php:56 inc/customizer/footer.php:108
+msgid "\"Add new\" button label (optional) "
+msgstr ""
+
+#: inc/customizer/footer.php:38
+msgid "\"Add new\" counter "
+msgstr ""
+
+#: kirki/core/class-kirki-field.php:498 kirki/core/class-kirki-field.php:509
+msgid ""
+"\"output\" invalid format in field %s. The \"output\" argument should be "
+"defined as an array of arrays."
+msgstr ""
+
+#: kirki/core/class-kirki-field.php:375
+msgid "\"partial_refresh\" invalid entry in field %s"
+msgstr ""
+
+#: inc/template-tags.php:111
+msgid "% Comments"
+msgstr ""
+
+#: inc/template-tags.php:229
+msgid "%1$s at %2$s"
+msgstr "%1$s kell %2$s"
+
+#: inc/class-tgm-plugin-activation.php:3666
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3674
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: kirki/deprecated/functions.php:19
+msgid "%1$s or %2$s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:34
+msgid "%1$s review for %2$s"
+msgid_plural "%1$s reviews for %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/mini_cart.php:13
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/woocommerce.php:36 template-jobpackages.php:126
+#: woocommerce/content-product.php:83
+#: woocommerce/single-product/tabs/description.php:42
+msgid "%d job"
+msgid_plural "%s jobs"
+msgstr[0] "%d pakkumine"
+msgstr[1] "%s töö- või praktikapakkumist"
+
+#: inc/woocommerce.php:58 template-resumepackages.php:128
+#: woocommerce/content-product.php:109
+#: woocommerce/single-product/tabs/description.php:66
+msgid "%d resume"
+msgid_plural "%s resumes"
+msgstr[0] "%d CV"
+msgstr[1] "%s CV-d"
+
+#: envato_setup/importer/wordpress-importer.php:559
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: single-resume.php:175 single-resume.php:194
+#: wp-job-manager-resumes/content-single-resume.php:96
+#: wp-job-manager-resumes/content-single-resume.php:115
+msgid "%s at %s"
+msgstr "%s at %s"
+
+#: content-company.php:102 single-company.php:54
+#: woocommerce/single-product/rating.php:40
+msgid "%s review"
+msgid_plural "%s reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/template-tags.php:219
+msgid "(Edit)"
+msgstr ""
+
+#: company-submit.php:40 job_manager/account-signin.php:33
+#: job_manager/job-submit.php:56 job_manager/job-submit.php:82
+#: wp-job-manager-applications/application-form.php:13
+#: wp-job-manager-apply-with-facebook/apply-with-facebook-form.php:22
+#: wp-job-manager-resumes/account-signin.php:45
+#: wp-job-manager-resumes/form-fields/repeated-field.php:25
+#: wp-job-manager-resumes/form-fields/repeated-field.php:50
+#: wp-job-manager-resumes/resume-submit.php:50
+msgid "(optional)"
+msgstr "(valikuline)"
+
+#: inc/template-tags.php:97 inc/template-tags.php:103
+msgid ", "
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:324
+msgid "- Select -"
+msgstr ""
+
+#: envato_setup/envato_setup.php:493
+msgid "...verifying"
+msgstr ""
+
+#: inc/wp-job-manager-maps.php:83 inc/wp-job-manager-maps.php:132
+#: job_manager/content-job_listing.php:267 single-resume.php:49
+#: template-parts/jobs-related.php:104
+#: wp-job-manager-resumes/content-resume.php:44
+#: wp-job-manager-resumes/content-single-resume.php:26
+msgid "/ hour"
+msgstr "/ tunnis"
+
+#: inc/template-tags.php:111
+msgid "1 Comment"
+msgstr ""
+
+#: functions.php:215
+msgid "1st column for widgets in Footer"
+msgstr ""
+
+#: functions.php:224
+msgid "2nd column for widgets in Footer"
+msgstr ""
+
+#: functions.php:233
+msgid "3rd column for widgets in Footer"
+msgstr ""
+
+#: 404.php:30
+msgid "404"
+msgstr ""
+
+#: functions.php:242
+msgid "4th column for widgets in Footer"
+msgstr ""
+
+#: functions.php:251
+msgid "5th column for widgets in Footer"
+msgstr ""
+
+#: template-login.php:86
+msgid ""
+"<a href=\"%s\" class=\"button  margin-bottom-15\"><i class=\"fa fa-user\">"
+"</i> Employer Dashboard </a>"
+msgstr ""
+
+#: template-login.php:80
+msgid ""
+"<a href=\"%s\" class=\"button margin-bottom-15\"><i class=\"fa fa-user\"></i>"
+" Candidate Dashboard </a>"
+msgstr ""
+
+#: template-login.php:73 woocommerce/myaccount/dashboard.php:23
+msgid "<h2 class=\"my-acc-h2\">Hello <strong>%1$s</strong></h2>"
+msgstr ""
+
+#: inc/template-tags.php:230
+msgid "<i class=\"fa fa-reply\"></i> Reply"
+msgstr ""
+
+#: inc/wp-job-manager.php:81
+msgid "<strong>ERROR</strong>: You must include a role."
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:1040
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: content-single-company.php:83 single-company.php:109
+msgid "About Us"
+msgstr "Meist"
+
+#: template-dashboard.php:416
+msgid "Account"
+msgstr "Minu konto"
+
+#: inc/customizer/shop.php:50
+msgid "Account details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2876
+msgid "Activate"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2762
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/licenser.php:352
+msgid "Activate License"
+msgstr ""
+
+#: envato_setup/envato_setup.php:1031
+msgid "Activating Plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2469
+msgid "Active"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:73
+msgid "Add a review"
+msgstr ""
+
+#: wp-job-manager-alerts/my-alerts.php:153
+msgid "Add alert"
+msgstr "Lisa uus teavitus"
+
+#: wp-job-manager-bookmarks/bookmark-form.php:23
+msgid "Add Bookmark"
+msgstr "Lisa järjehoidjatesse"
+
+#: company-dashboard.php:140 job_manager/job-submit.php:93
+#: template-dashboard.php:355
+msgid "Add Company"
+msgstr "Lisa tööandja profiil"
+
+#: archive-company.php:25
+msgid "Add Company Profile"
+msgstr "Lisa tööandja profiil"
+
+#: kirki/controls/php/class-kirki-control-repeater.php:419
+#: kirki/controls/php/class-kirki-control-repeater.php:423
+msgid "Add File"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-repeater.php:387
+#: kirki/controls/php/class-kirki-control-repeater.php:391
+msgid "Add Image"
+msgstr ""
+
+#: job_manager/job-dashboard.php:115
+msgid "Add Job"
+msgstr "+ Lisa tööpakkumine"
+
+#: kirki/controls/php/class-kirki-control-repeater.php:86
+msgid "Add new %s"
+msgstr ""
+
+#: wp-job-manager-alerts/alert-form.php:5
+msgid "Add New Alert"
+msgstr "Lisa uus teavitus"
+
+#: template-dashboard.php:391
+#: wp-job-manager-resumes/candidate-dashboard.php:125
+msgid "Add Resume"
+msgstr "Lisa CV"
+
+#: inc/wp-job-manager.php:334 woocommerce/single-product-reviews.php:64
+#: woocommerce/single-product-reviews.php:68
+msgid "Add Review"
+msgstr "Hinda tööandjat"
+
+#: template-jobpackages.php:144 template-resumepackages.php:145
+#: woocommerce/content-product.php:127 woocommerce/content-product.php:152
+msgid "Add to cart"
+msgstr "Vali pakett"
+
+#: wp-job-manager-resumes/form-fields/repeated-field.php:64
+msgid "Add URL"
+msgstr ""
+
+#: inc/customizer/contact.php:62 inc/customizer/footer.php:114
+msgid "Address of marker on map"
+msgstr ""
+
+#: inc/customizer/shop.php:49
+msgid "Addresses"
+msgstr ""
+
+#: template-home-box.php:125 template-home-resumes.php:133
+#: template-home.php:134
+msgid "Advanced Search"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2969
+msgid "Agree and Continue"
+msgstr ""
+
+#: wp-job-manager-alerts/alert-form.php:8
+#: wp-job-manager-alerts/my-alerts.php:11
+msgid "Alert Name"
+msgstr "Pealkiri"
+
+#: template-home-box.php:97 template-home.php:104
+msgid "All Categories"
+msgstr "Valdkond"
+
+#: template-home-old.php:78 template-home-resumes.php:105
+msgid "All categories"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:178
+msgid "All done."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3667
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3675
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:407
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: search-fields/split-jobs-region.php:19
+#: search-fields/split-resume-region.php:18 template-home-box.php:58
+#: template-home-old.php:40 template-home-resumes.php:65 template-home.php:64
+msgid "All Regions"
+msgstr "Kõik piirkonnad"
+
+#: inc/customizer/header.php:39
+msgid "Alternative"
+msgstr ""
+
+#: inc/customizer/header.php:100
+msgid "Alternative header breakpoint"
+msgstr ""
+
+#: template-dashboard.php:60
+msgid "An account exists with this email address."
+msgstr "Selle e-posti aadressiga on kasutajakonto juba registreeritud."
+
+#: inc/class-tgm-plugin-activation.php:3658
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:115
+msgid "Anti-spam"
+msgstr ""
+
+#: search-fields/split-jobs-job_listing_category.php:33
+#: search-fields/split-resume-resume_category.php:33
+#: wp-job-manager-alerts/alert-form.php:60
+msgid "Any category"
+msgstr "Kõik kategooriad"
+
+#: wp-job-manager-alerts/alert-form.php:89
+msgid "Any job type"
+msgstr "Kõik töövormid"
+
+#: wp-job-manager-alerts/alert-form.php:33
+msgid "Any region"
+msgstr "Kõik piirkonnad"
+
+#: wp-job-manager-alerts/alert-form.php:80
+msgid "Any tag"
+msgstr "Sildid"
+
+#: inc/customizer/jobs.php:330
+msgid "Application Deadline"
+msgstr ""
+
+#: wp-job-manager-applications/past-applications.php:6
+msgid "Application Message"
+msgstr ""
+
+#: wp-job-manager-applications/job-applications.php:107
+msgid "Application status"
+msgstr "Staatus"
+
+#: template-parts/single-job-classic.php:102 template-parts/single-job.php:107
+msgid "Applications have closed"
+msgstr "Kandideerimine on lõppenud."
+
+#: woocommerce/cart/cart.php:135
+msgid "Apply Coupon"
+msgstr ""
+
+#: job_manager/job-application.php:8 template-parts/single-job-classic.php:402
+#: template-parts/single-job-classic.php:409 template-parts/single-job.php:251
+#: template-parts/single-job.php:258 template-parts/single-job.php:510
+#: template-parts/single-job.php:517
+msgid "Apply for job"
+msgstr "Kandideeri"
+
+#: job_manager/job-application.php:12 template-parts/jobs-related.php:139
+msgid "Apply For This Job"
+msgstr "Kandideeri"
+
+#: wp-job-manager-resumes/apply-with-resume.php:9
+msgid ""
+"Apply using your online resume; just enter a short message and choose one of "
+"your resumes to email your application."
+msgstr ""
+"Saad kandideerida süsteemis loodud CV-ga, lisa lühike teade ja saada avaldus!"
+
+#: wp-job-manager-apply-with-facebook/apply-with-facebook.php:3
+msgid "Apply with Facebook"
+msgstr ""
+
+#: template-dashboard.php:485
+msgid "Approved Bookings"
+msgstr ""
+
+#: sidebar.php:20 sidebar.php:38 sidebar.php:57
+msgid "Archives"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2630
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: inc/customizer/blog.php:44 inc/customizer/blog.php:60
+msgid "Author"
+msgstr ""
+
+#: inc/cmb2-meta-boxes.php:18
+msgid "Author of testimonial"
+msgstr ""
+
+#: inc/template-tags.php:275
+msgid "Author: %s"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-background.php:106
+msgid "Auto"
+msgstr ""
+
+#: inc/customizer/maps.php:106
+msgid "Autofit all job markers on map"
+msgstr ""
+
+#: woocommerce/cart/cart.php:76
+msgid "Available on backorder"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2658
+msgid "Available version:"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:93
+msgid "Average"
+msgstr ""
+
+#: archive-company.php:75 archive-company.php:76 content-company.php:58
+#: content-single-company.php:124 inc/wp-job-manager.php:279
+#: single-company.php:185
+msgid "Avg. Salary"
+msgstr "Keskmine töötasu"
+
+#: functions.php:510
+msgid "Back"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-background.php:113
+msgid "Background Attachment"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-background.php:48
+msgid "Background Color"
+msgstr ""
+
+#: inc/customizer/jobs_home.php:153 inc/customizer/jobs_home.php:245
+msgid "Background for search banner on homepage"
+msgstr ""
+
+#: inc/customizer/resume_home.php:98
+msgid "Background for search banner on Resumes homepage"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-background.php:54
+msgid "Background Image"
+msgstr ""
+
+#: inc/cmb2-meta-boxes.php:84 inc/cmb2-meta-boxes.php:258
+msgid "Background image for header"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-background.php:81
+msgid "Background Position"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-background.php:70
+msgid "Background Repeat"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-background.php:97
+msgid "Background Size"
+msgstr ""
+
+#: inc/customizer/jobs_home.php:202
+msgid "Background Type"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-typography.php:87
+msgid "Backup Font"
+msgstr ""
+
+#: inc/customizer/jobs_home.php:216
+msgid "Banner Background Color"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:73
+msgid "Be the first to review"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:394
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:384
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:389
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/customizer/blog.php:72
+msgid "Blog"
+msgstr ""
+
+#: inc/customizer/blog.php:28
+msgid "Blog header image"
+msgstr ""
+
+#: inc/customizer/blog.php:14
+msgid "Blog layout"
+msgstr ""
+
+#: inc/customizer/blog.php:3
+msgid "Blog Options"
+msgstr ""
+
+#: inc/customizer/blog.php:4
+msgid "Blog related options"
+msgstr ""
+
+#: inc/customizer/blog.php:80
+msgid "Blog subtitle"
+msgstr ""
+
+#: inc/customizer/blog.php:71
+msgid "Blog title"
+msgstr ""
+
+#: inc/customizer/typography.php:16
+msgid "Body font"
+msgstr ""
+
+#: kirki/modules/webfonts/class-kirki-fonts.php:213
+msgid "Bold 700"
+msgstr ""
+
+#: kirki/modules/webfonts/class-kirki-fonts.php:214
+msgid "Bold 700 Italic"
+msgstr ""
+
+#: kirki/modules/webfonts/class-kirki-fonts.php:203
+msgid "Book 300"
+msgstr ""
+
+#: kirki/modules/webfonts/class-kirki-fonts.php:204
+msgid "Book 300 Italic"
+msgstr ""
+
+#: template-dashboard.php:499
+msgid "Bookings"
+msgstr ""
+
+#: wp-job-manager-bookmarks/my-bookmarks.php:7
+msgid "Bookmark"
+msgstr "Järjehoidja"
+
+#: wp-job-manager-bookmarks/bookmark-form.php:16
+msgid "Bookmark Details"
+msgstr "Märkmed"
+
+#: wp-job-manager-bookmarks/bookmark-form.php:11
+msgid "Bookmark This %s"
+msgstr "Salvesta"
+
+#: template-dashboard.php:286
+msgid "Bookmarks"
+msgstr "Järjehoidjad"
+
+#: kirki/controls/php/class-kirki-control-dimensions.php:130
+#: kirki/field/class-kirki-field-spacing.php:33
+msgid "Bottom"
+msgstr ""
+
+#: inc/customizer/layout.php:21
+msgid "Boxed"
+msgstr ""
+
+#: job_manager/form-fields/file-field.php:25
+#: job_manager/form-fields/file-field.php:43
+msgid "Browse"
+msgstr "Vali fail"
+
+#: archive-job_listing.php:199 template-parts/archive-jobs-regular.php:35
+msgid "Browse Jobs"
+msgstr ""
+
+#: inc/template-tags.php:21 inc/template-tags.php:55
+msgid "By"
+msgstr ""
+
+#: inc/customizer/jobs.php:156 inc/customizer/resumes.php:62
+msgid "Call to action button in header"
+msgstr ""
+
+#: envato_setup/envato_setup.php:697
+msgid "Cancel"
+msgstr ""
+
+#: template-dashboard.php:493
+msgid "Cancelled Bookings"
+msgstr ""
+
+#: inc/wp-job-manager.php:64 inc/wp-job-manager.php:68
+#: template-dashboard.php:368
+msgid "Candidate"
+msgstr "Tööotsija"
+
+#: functions.php:94
+msgid "Candidate Dashboard Menu"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-typography.php:177
+msgid "Capitalize"
+msgstr ""
+
+#: inc/customizer/blog.php:47 inc/customizer/blog.php:63
+#: template-home-resumes.php:93 template-home.php:92
+#: wp-job-manager-alerts/alert-form.php:48
+#: wp-job-manager-alerts/my-alerts.php:15
+msgid "Categories"
+msgstr "Valdkonnad"
+
+#: inc/customizer/jobs_home.php:87 inc/customizer/resume_home.php:147
+msgid "Category dropdown"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-dimensions.php:133
+#: kirki/controls/php/class-kirki-control-typography.php:151
+msgid "Center"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-background.php:91
+#: kirki/controls/php/class-kirki-control-dimensions.php:122
+msgid "Center Bottom"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-background.php:90
+#: kirki/controls/php/class-kirki-control-dimensions.php:121
+msgid "Center Center"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-background.php:89
+#: kirki/controls/php/class-kirki-control-dimensions.php:120
+msgid "Center Top"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-repeater.php:419
+#: kirki/controls/php/class-kirki-control-repeater.php:421
+msgid "Change File"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-repeater.php:387
+#: kirki/controls/php/class-kirki-control-repeater.php:389
+msgid "Change Image"
+msgstr ""
+
+#: kirki/controls/views/image.php:35 kirki/field/class-kirki-field-image.php:48
+msgid "Change image"
+msgstr ""
+
+#: template-login.php:55 template-login.php:75
+msgid "Change password"
+msgstr "Muuda salasõna"
+
+#: inc/customizer/shop.php:41
+msgid ""
+"Check the checkbox to hide that element in the WooCommerce My Account menu"
+msgstr ""
+
+#: inc/mini_cart.php:48
+msgid "Checkout &rarr;"
+msgstr ""
+
+#: inc/customizer/resume_home.php:180
+msgid "Choose \"Browse Resume Categories Page\""
+msgstr ""
+
+#: wp-job-manager-resumes/apply-with-resume.php:13
+msgid "Choose a resume..."
+msgstr "Vali sobiv"
+
+#: search-fields/split-resume-resume_skill.php:14
+msgid "Choose a skill"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:1056
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: kirki/controls/views/image.php:40 kirki/field/class-kirki-field-image.php:53
+msgid "Choose image"
+msgstr ""
+
+#: inc/customizer/blog.php:15
+msgid "Choose the sidebar side for blog"
+msgstr ""
+
+#: inc/customizer/shop.php:14
+msgid "Choose the sidebar side for shop"
+msgstr ""
+
+#: inc/customizer/jobs.php:294
+msgid "Choose the sidebar side for single job"
+msgstr ""
+
+#: inc/customizer/jobs.php:308
+msgid "Choose the style for job lis side for single job"
+msgstr ""
+
+#: template-home-old.php:53 template-home-resumes.php:79
+msgid "city, province or region"
+msgstr "linn, maakond"
+
+#: template-home-box.php:72 template-home.php:78
+msgid "City, State or Zip"
+msgstr "Linn või maakond"
+
+#: inc/customizer/jobs.php:32 inc/customizer/jobs.php:314
+#: inc/customizer/resumes.php:33
+msgid "Classic"
+msgstr ""
+
+#: wp-job-manager-apply-with-facebook/apply-with-facebook-form.php:36
+msgid "Clicking submit will submit your full profile to %s."
+msgstr ""
+
+#: inc/customizer/jobs_home.php:209
+msgid "Clipart "
+msgstr ""
+
+#: inc/customizer/jobs_home.php:298
+msgid "Clipart image for boxed search banner on homepage"
+msgstr ""
+
+#: job_manager/content-job_listing.php:96
+#: job_manager/content-job_listing.php:175
+#: job_manager/content-job_listing.php:315
+#: job_manager/content-single-job_listing.php:193
+#: template-parts/single-job-classic.php:270 template-parts/single-job.php:381
+msgid "Closed"
+msgstr "Tähtaeg"
+
+#: job_manager/content-job_listing.php:96
+#: job_manager/content-job_listing.php:175
+#: job_manager/content-job_listing.php:315
+#: job_manager/content-single-job_listing.php:193
+#: template-parts/single-job-classic.php:270 template-parts/single-job.php:381
+msgid "Closes"
+msgstr "Tähtaeg"
+
+#: inc/wp-job-manager-colors-types.php:117
+#: inc/wp-job-manager-colors-types.php:132
+#: inc/wp-job-manager-colors-types.php:145
+#: kirki/controls/php/class-kirki-control-typography.php:221
+msgid "Color"
+msgstr ""
+
+#: comments.php:46 comments.php:68
+msgid "Comment navigation"
+msgstr ""
+
+#: inc/customizer/blog.php:64
+msgid "Comments"
+msgstr ""
+
+#: comments.php:84
+msgid "Comments are closed."
+msgstr ""
+
+#: inc/template-tags.php:47 inc/template-tags.php:82
+msgid "Comments are off"
+msgstr ""
+
+#: inc/customizer/layout.php:28
+msgid "Comments on pages"
+msgstr ""
+
+#: comments.php:36
+msgctxt "comments title"
+msgid "Comments %1$s"
+msgid_plural " Comments %1$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:31
+#, php-format
+msgctxt "comments title"
+msgid "Review %1$s"
+msgid_plural " Reviews %1$s"
+msgstr[0] "Kasutajate hinnangud %1$s"
+msgstr[1] "Kasutajate hinnangud %1$s"
+
+#: functions.php:204
+msgid "Companies sidebar"
+msgstr ""
+
+#: inc/customizer/jobs.php:199 inc/wp-job-manager.php:382
+msgid "Company"
+msgstr "Tööandja"
+
+#: archive-company.php:77
+msgctxt ""
+"Company avarage salary permalink - resave permalinks after changing this"
+msgid "company-average-salary"
+msgstr ""
+
+#: archive-company.php:65
+msgctxt "Company category permalink - resave permalinks after changing this"
+msgid "company-category"
+msgstr ""
+
+#: company-submit.php:31 job_manager/job-submit.php:75
+msgid "Company Details"
+msgstr "Tööandja andmed"
+
+#: archive-company.php:71
+msgctxt ""
+"Company employees strength permalink - resave permalinks after changing this"
+msgid "company-employees-strength"
+msgstr ""
+
+#: content-single-company.php:141 single-company.php:202
+msgid "Company Overview"
+msgstr "Ülevaade"
+
+#: archive-company.php:83
+msgctxt "Company revenue permalink - resave permalinks after changing this"
+msgid "company-revenue"
+msgstr ""
+
+#: functions.php:687 functions.php:688 functions.php:696 single-company.php:170
+msgid "Company Size"
+msgstr "Ettevõtte suurus"
+
+#: archive-company.php:58
+msgid "Company title or keywords"
+msgstr "Tööandja nimi või märksõna"
+
+#: functions.php:689
+msgid "company-size"
+msgstr ""
+
+#: kirki/core/class-kirki-field.php:257 kirki/core/class-kirki-field.php:267
+msgid ""
+"Config not defined for field %1$s - See %2$s for details on how to properly "
+"add fields."
+msgstr ""
+
+#: envato_setup/envato_setup.php:1149
+msgid "Configure default settings."
+msgstr ""
+
+#: wp-job-manager-resumes/contact-details.php:13
+msgid "Contact"
+msgstr "Kontakt"
+
+#. Template Name of the plugin/theme
+#: inc/theme-options.php:62
+msgid "Contact Page"
+msgstr ""
+
+#: inc/customizer/contact.php:6
+msgid "Contact Page Map"
+msgstr ""
+
+#: inc/customizer/contact.php:7
+msgid "Contact Page Map related options"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-background.php:103
+msgid "Contain"
+msgstr ""
+
+#: envato_setup/envato_setup.php:440
+msgid "Content"
+msgstr ""
+
+#: envato_setup/envato_setup.php:1002 envato_setup/envato_setup.php:1207
+#: envato_setup/envato_setup.php:2778 envato_setup/envato_setup.php:2863
+#: envato_setup/envato_setup.php:2929
+msgid "Continue"
+msgstr ""
+
+#: job_manager/job-dashboard.php:85
+msgid "Continue Submission"
+msgstr "Jätka lisamist"
+
+#: inc/customizer/footer.php:82
+msgid "Copyrights text"
+msgstr ""
+
+#: inc/customizer/footer.php:36
+msgid "Counter"
+msgstr ""
+
+#: woocommerce/cart/cart.php:135
+msgid "Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:135
+msgid "Coupon code"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-background.php:100
+msgid "Cover"
+msgstr ""
+
+#: wp-job-manager-apply-with-facebook/apply-with-facebook-form.php:22
+msgid "Cover letter"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-base.php:138
+msgid "CSS Defaults"
+msgstr ""
+
+#: wp-job-manager-apply-with-facebook/apply-with-facebook-form.php:9
+msgid "Current"
+msgstr ""
+
+#: envato_setup/envato_setup.php:450
+msgid "Customize"
+msgstr ""
+
+#: kirki/modules/custom-sections/sections/class-kirki-sections-nested-section.php:61
+msgid "Customizing"
+msgstr ""
+
+#: kirki/modules/custom-sections/sections/class-kirki-sections-nested-section.php:64
+msgid "Customizing &#9656; %s"
+msgstr ""
+
+#: inc/customizer/shop.php:46 template-dashboard.php:268
+#: template-dashboard.php:513
+msgid "Dashboard"
+msgstr "Kiire pilk"
+
+#: template-dashboard.php:261
+msgid "Dashboard Navigation"
+msgstr "Menüü"
+
+#. Template Name of the plugin/theme
+msgid "Dashboard Page"
+msgstr "Halduspaneel"
+
+#: inc/customizer/blog.php:45 inc/customizer/blog.php:61
+msgid "Date"
+msgstr "Kpv"
+
+#: wp-job-manager-applications/past-applications.php:4
+msgid "Date Applied"
+msgstr ""
+
+#: inc/customizer/jobs.php:203
+msgid "Date created"
+msgstr ""
+
+#: inc/customizer/jobs.php:328 job_manager/content-single-job_listing.php:161
+#: template-parts/single-job-classic.php:238 template-parts/single-job.php:347
+msgid "Date Posted"
+msgstr "Lisatud"
+
+#: woocommerce/checkout/thankyou.php:60
+msgid "Date:"
+msgstr "Kpv:"
+
+#: inc/licenser.php:242
+msgid "Deactivate License"
+msgstr ""
+
+#: inc/customizer/jobs.php:204
+msgid "Deadline"
+msgstr ""
+
+#: inc/customizer/header.php:38
+#: kirki/controls/php/class-kirki-control-base.php:134
+#: kirki/controls/views/image.php:36 kirki/field/class-kirki-field-image.php:49
+msgid "Default"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-base.php:139
+msgid "Default Browser Font-Family"
+msgstr ""
+
+#: inc/customizer/jobs.php:172
+msgid "Default company logo"
+msgstr ""
+
+#: envato_setup/envato_setup.php:1169
+msgid "Default Content"
+msgstr ""
+
+#: wp-job-manager-apply-with-facebook/apply-with-facebook-form.php:30
+msgctxt "default cover letter"
+msgid "Best regards,"
+msgstr ""
+
+#: wp-job-manager-resumes/apply-with-resume.php:29
+msgctxt "default cover letter"
+msgid ""
+"I am very interested in the %s position at %s. I believe my skills and work "
+"experience make me an ideal candidate for this role. I look forward to "
+"speaking with you soon about this position."
+msgstr ""
+"Soovin kandideerida \"%1$s\" tööpakkumisele. %2$s on minu jaoks huvipakkuv "
+"tööandja ja usun, et minu seni omandatud kogemused ja oskused lubavad mul "
+"edukalt panustada teie tiimi tegemistesse! Olen meeleldi valmis kohtuma või "
+"sooritama töövestluse video vahendusel!"
+
+#: wp-job-manager-apply-with-facebook/apply-with-facebook-form.php:27
+msgctxt "default cover letter"
+msgid ""
+"I am very interested in the %s position at %s. I believe my skills and work "
+"experience make me an ideal candidate for this role. I look forward to "
+"speaking with you soon about this position. Thank you for your consideration."
+msgstr ""
+"Soovin kandideerida \"%1$s\" tööpakkumisele. %2$s on minu jaoks huvipakkuv "
+"tööandja ja usun, et minu seni omandatud kogemused ja oskused lubavad mul "
+"edukalt panustada teie tiimi tegemistesse! Olen meeleldi valmis kohtuma või "
+"sooritama töövestluse video vahendusel!"
+
+#: wp-job-manager-resumes/apply-with-resume.php:31
+msgctxt "default cover letter"
+msgid "Thank you for your consideration."
+msgstr "Lugupidamisega"
+
+#: wp-job-manager-apply-with-facebook/apply-with-facebook-form.php:24
+#: wp-job-manager-resumes/apply-with-resume.php:27
+msgctxt "default cover letter"
+msgid "To whom it may concern,"
+msgstr "Tere!"
+
+#: inc/customizer/jobs.php:379
+msgid "Default Map zoom level"
+msgstr ""
+
+#: envato_setup/envato_setup.php:964
+msgid "Default Plugins"
+msgstr ""
+
+#: inc/customizer/maps.php:114
+msgid "Default zoom level"
+msgstr ""
+
+#: company-dashboard.php:113 job_manager/job-dashboard.php:90
+#: wp-job-manager-alerts/my-alerts.php:127
+#: wp-job-manager-bookmarks/my-bookmarks.php:33
+#: wp-job-manager-resumes/candidate-dashboard.php:98
+msgid "Delete"
+msgstr "Kustuta"
+
+#: wp-job-manager-applications/job-applications.php:125
+msgid "Delete this application"
+msgstr "Kustuta avaldus"
+
+#: envato_setup/envato_setup.php:1185
+msgid "Description"
+msgstr "Kirjeldus"
+
+#: wp-job-manager-applications/job-applications.php:90
+msgid "Details"
+msgstr "Info"
+
+#: envato_setup/importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: inc/customizer/jobs_home.php:50 inc/customizer/resume_home.php:43
+#: wp-job-manager-alerts/my-alerts.php:123
+msgid "Disable"
+msgstr "Tühista"
+
+#: inc/customizer/jobs.php:79
+msgid "Disable RSS button"
+msgstr ""
+
+#: inc/customizer/jobs_home.php:351
+msgid "Disable to hide jobs counter (works on old home page template)"
+msgstr ""
+
+#: inc/customizer/resume_home.php:169
+msgid "Disable to hide resumes counter"
+msgstr ""
+
+#: inc/customizer/jobs_home.php:340 inc/customizer/resume_home.php:158
+msgid "Disable to hide text below search form"
+msgstr ""
+
+#: inc/customizer/jobs.php:71
+msgid "Disable to use jobs search input obove the job list"
+msgstr ""
+
+#: wp-job-manager-alerts/my-alerts.php:105
+msgid "Disabled"
+msgstr "Tühistatud"
+
+#: inc/customizer/maps.php:169
+msgid "Disabled by default as it might create problems witch scrolling page"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:408
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/cmb2-meta-boxes.php:143
+msgid "Display Revolution Slider on this page"
+msgstr ""
+
+#: kirki/field/class-kirki-field-color.php:52
+msgid ""
+"Do not use \"alpha\" as an argument in color controls. Use \"choices[alpha]"
+"\" instead."
+msgstr ""
+
+#: kirki/core/class-kirki-init.php:369
+msgid "Don't show this again"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr ""
+
+#: wp-job-manager-applications/job-applications.php:21
+msgid "Download CSV"
+msgstr "Lae alla CSV"
+
+#: inc/customizer/shop.php:48
+msgid "Downloads"
+msgstr ""
+
+#: job_manager/job-dashboard.php:70
+msgid "Duplicate"
+msgstr ""
+
+#: archive-company.php:187 archive-job_listing.php:280 archive-resume.php:134
+#: company-dashboard.php:70 company-dashboard.php:86 company-dashboard.php:98
+#: content-single-company.php:190 job_manager/job-dashboard.php:61
+#: job_manager/job-dashboard.php:80 resumes.php:93 single-company.php:251
+#: taxonomy-resume_category.php:167 taxonomy-resume_region.php:166
+#: taxonomy-resume_skill.php:167 template-contact.php:85
+#: template-jobs-no-map.php:81 template-jobs.php:97
+#: template-parts/archive-jobs-regular.php:103
+#: template-parts/archive-resumes-regular.php:91
+#: template-parts/content-page.php:76 wp-job-manager-alerts/my-alerts.php:119
+#: wp-job-manager-applications/job-applications.php:88
+#: wp-job-manager-resumes/candidate-dashboard.php:72
+#: wp-job-manager-resumes/candidate-dashboard.php:78
+#: wp-job-manager-resumes/candidate-dashboard.php:86
+msgid "Edit"
+msgstr "Muuda"
+
+#: inc/template-tags.php:118
+msgid "Edit %s"
+msgstr ""
+
+#: job_manager/job-preview.php:30
+msgid "Edit listing"
+msgstr "Muuda"
+
+#: single-resume.php:168
+#: wp-job-manager-apply-with-facebook/apply-with-facebook-form.php:15
+#: wp-job-manager-resumes/content-single-resume.php:89
+msgid "Education"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:80
+#: wp-job-manager-alerts/my-alerts.php:115
+#: wp-job-manager-applications/job-applications.php:74
+#: wp-job-manager-apply-with-facebook/apply-with-facebook-form.php:18
+msgid "Email"
+msgstr "E-post"
+
+#: envato_setup/envato_setup.php:912 woocommerce/myaccount/form-login.php:92
+msgid "Email address"
+msgstr ""
+
+#: wp-job-manager-alerts/alert-form.php:101
+msgid "Email Frequency"
+msgstr "Teavituste sagedus"
+
+#: woocommerce/checkout/thankyou.php:66
+msgid "Email:"
+msgstr ""
+
+#: inc/licenser.php:119
+msgid "Emails"
+msgstr ""
+
+#: archive-company.php:69
+msgid "Employee Strength"
+msgstr ""
+
+#: content-company.php:51 content-single-company.php:109
+#: inc/wp-job-manager.php:267
+msgid "Employees"
+msgstr "Ettevõtte suurus"
+
+#: archive-company.php:70
+msgid "Employees Strength"
+msgstr ""
+
+#: inc/wp-job-manager.php:66 template-dashboard.php:306
+msgid "Employer"
+msgstr "Tööandja"
+
+#: functions.php:93
+msgid "Employer Dashboard Menu"
+msgstr ""
+
+#: inc/customizer/jobs_home.php:49 inc/customizer/resume_home.php:42
+#: wp-job-manager-alerts/my-alerts.php:123
+msgid "Enable"
+msgstr "Aktiveeri"
+
+#: inc/customizer/maps.php:15
+msgid "Enable map on Jobs page"
+msgstr ""
+
+#: inc/customizer/maps.php:42
+msgid "Enable map on Resumes page"
+msgstr ""
+
+#: inc/customizer/jobs.php:370
+msgid "Enable map on Single Job"
+msgstr ""
+
+#: inc/cmb2-meta-boxes.php:136
+msgid ""
+"Enable option below to dispay Revolution Slider on this page (the page "
+"template \"Revolution Page\" is now deprecated)."
+msgstr ""
+
+#: search-fields/split-jobs-rate.php:19 search-fields/split-resume-rate.php:19
+msgid "Enable Rate Filter"
+msgstr "Tunnitasu filter"
+
+#: inc/customizer/jobs.php:361
+msgid "Enable related Jobs on Single Job"
+msgstr ""
+
+#: search-fields/split-jobs-salary.php:20
+msgid "Enable Salary Filter"
+msgstr "Töötasu filter"
+
+#: inc/customizer/jobs_home.php:44
+msgid "Enable Type words effect"
+msgstr ""
+
+#: inc/customizer/resume_home.php:37
+msgid "Enable Typed words effect"
+msgstr ""
+
+#: inc/customizer/header.php:85
+msgid "Enable/disable full width header"
+msgstr ""
+
+#: inc/customizer/header.php:135
+msgid "Enable/disable link to User Page in header"
+msgstr ""
+
+#: inc/customizer/header.php:125
+msgid "Enable/disable Login/Sing Up buttons in header"
+msgstr ""
+
+#: inc/customizer/header.php:74
+msgid "Enable/disable sticky header"
+msgstr ""
+
+#: wp-job-manager-alerts/my-alerts.php:105
+msgid "Enabled"
+msgstr "Aktiivne"
+
+#: inc/customizer/resume_home.php:129
+msgid "Enabling transparent header works only on 'Page with Resumes Search'"
+msgstr ""
+
+#: inc/customizer/jobs.php:136
+msgid "Enabling transparent on browse jobs page"
+msgstr ""
+
+#: wp-job-manager-alerts/alert-form.php:10
+msgid "Enter a name for your alert"
+msgstr "Lisa pealkiri"
+
+#: inc/cmb2-meta-boxes.php:30
+msgid "Enter their position in their specific company."
+msgstr ""
+
+#: envato_setup/envato_setup.php:1288
+msgid "Error"
+msgstr ""
+
+#: kirki/field/class-kirki-field-radio.php:37
+msgid ""
+"Error in field %1$s. The \"mode\" argument has been deprecated since Kirki "
+"v0.8. Use the \"radio-%2$s\" type instead."
+msgstr ""
+
+#: single-resume.php:187 wp-job-manager-resumes/content-single-resume.php:108
+msgid "Experience"
+msgstr "Kogemus"
+
+#: inc/customizer/jobs.php:329
+msgid "Expiration Date"
+msgstr "Aegub"
+
+#: job_manager/content-single-job_listing.php:176
+#: template-parts/single-job-classic.php:253 template-parts/single-job.php:363
+msgid "Expiration date"
+msgstr "Aegub"
+
+#: inc/customizer/jobs.php:205 job_manager/content-job_listing.php:107
+#: job_manager/content-job_listing.php:188
+#: job_manager/content-job_listing.php:324
+msgid "Expires"
+msgstr "Aegub"
+
+#: wp-job-manager-resumes/candidate-dashboard.php:53
+msgid "Expires %s"
+msgstr "Muutub peidetuks %s"
+
+#: inc/class-tgm-plugin-activation.php:2443
+msgid "External Source"
+msgstr ""
+
+#: kirki/modules/webfonts/class-kirki-fonts.php:215
+#: kirki/modules/webfonts/class-kirki-fonts.php:216
+msgid "Extra-Bold 800"
+msgstr ""
+
+#: kirki/modules/webfonts/class-kirki-fonts.php:217
+msgid "Extra-Bold 800 Italic"
+msgstr ""
+
+#: content-single-company.php:58 inc/customizer/blog.php:95
+#: inc/customizer/jobs.php:349 inc/wp-job-manager.php:235 single-company.php:84
+#: template-parts/single-job-classic.php:137 template-parts/single-job.php:186
+#: template-parts/single-job.php:218
+msgid "Facebook"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:374
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:511
+#: envato_setup/importer/wordpress-importer.php:652
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:618
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:537
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:240
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:425
+msgid "Failed to import category %s"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:465
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:853
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: wp-job-manager-applications/job-applications.php:27
+msgid "Filter by status"
+msgstr "Filtreeri"
+
+#: inc/customizer/resume_home.php:20 inc/customizer/resume_home.php:30
+#: template-parts/resume-split-filters.php:5
+msgid "Find Candidate"
+msgstr ""
+
+#: inc/customizer/jobs_home.php:27 template-parts/jobs-split-filters.php:16
+msgid "Find Job"
+msgstr "Leia töökoht"
+
+#: job_manager/form-fields/text-field.php:21 search-fields/split-location.php:9
+#: template-home-box.php:74 template-home-resumes.php:81 template-home.php:80
+msgid "Find My Location"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-background.php:119
+msgid "Fixed"
+msgstr ""
+
+#: footer-old.php:41
+msgid "Follow us"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-typography.php:82
+msgid "Font Family"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-dimensions.php:123
+#: kirki/controls/php/class-kirki-control-typography.php:102
+msgid "Font Size"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-dimensions.php:126
+msgid "Font Style"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-dimensions.php:124
+msgid "Font Weight"
+msgstr ""
+
+#: inc/customizer/typography.php:6
+msgid "Fonts options"
+msgstr ""
+
+#: functions.php:214
+msgid "Footer 1st Column"
+msgstr ""
+
+#: functions.php:223
+msgid "Footer 2nd Column"
+msgstr ""
+
+#: functions.php:232
+msgid "Footer 3rd Column"
+msgstr ""
+
+#: functions.php:241
+msgid "Footer 4th Column"
+msgstr ""
+
+#: functions.php:250
+msgid "Footer 5th Column"
+msgstr ""
+
+#: inc/customizer/footer.php:16
+msgid "Footer Logo image"
+msgstr ""
+
+#: inc/customizer/footer.php:5
+msgid "Footer Options"
+msgstr ""
+
+#: inc/customizer/footer.php:6
+msgid "Footer related options"
+msgstr ""
+
+#: inc/customizer/footer.php:91
+msgid "Footer widgets layout"
+msgstr ""
+
+#: inc/woocommerce.php:42 inc/woocommerce.php:65 template-jobpackages.php:133
+#: template-resumepackages.php:136 woocommerce/content-product.php:91
+#: woocommerce/content-product.php:117
+#: woocommerce/single-product/tabs/description.php:49
+#: woocommerce/single-product/tabs/description.php:73
+msgid "for %s day"
+msgid_plural "for %s days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: content-company.php:46 content-single-company.php:104
+#: inc/wp-job-manager.php:263 single-company.php:165
+msgid "Founded"
+msgstr "Asutatud"
+
+#: wp-job-manager-alerts/my-alerts.php:21
+msgid "Frequency"
+msgstr "Sagedus"
+
+#: woocommerce/myaccount/dashboard.php:31
+msgid ""
+"From your account dashboard you can view your %1$srecent orders%2$s, manage "
+"your %3$sshipping and billing addresses%2$s and %4$sedit your password and "
+"account details%2$s."
+msgstr ""
+
+#: inc/cmb2-meta-boxes.php:233
+msgid "Full Width"
+msgstr ""
+
+#: inc/customizer/header.php:40 inc/customizer/layout.php:22
+msgid "Full-width"
+msgstr ""
+
+#: inc/licenser.php:104 inc/licenser.php:255 inc/theme-options.php:66
+msgid "General"
+msgstr ""
+
+#: envato_setup/envato_setup.php:3021
+msgid "Get Help and Support"
+msgstr ""
+
+#: inc/customizer/footer.php:58
+msgid "Get value automatically from:"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:92
+msgid "Good"
+msgstr ""
+
+#: envato_setup/envato_setup.php:996
+msgid ""
+"Good news! All plugins are already installed and up to date. Please continue."
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-base.php:137
+msgid "Google Fonts"
+msgstr ""
+
+#: inc/customizer/blog.php:97
+msgid "Google Plus"
+msgstr ""
+
+#: inc/customizer/jobs.php:49
+msgid "Grid"
+msgstr ""
+
+#: inc/customizer/maps.php:98
+msgid "Group nearby markes in clusters"
+msgstr ""
+
+#: job_manager/content-single-job_listing.php:222
+#: template-parts/single-job-classic.php:300 template-parts/single-job.php:414
+msgid "h / week"
+msgstr ""
+
+#: inc/customizer/typography.php:46
+msgid "h1..h6 font"
+msgstr ""
+
+#: job_manager/account-signin.php:12
+#: wp-job-manager-resumes/account-signin.php:26
+msgid "Have an account?"
+msgstr "Oled juba registreerunud?"
+
+#: envato_setup/importer/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr ""
+
+#: inc/cmb2-meta-boxes.php:96
+msgid "Header background "
+msgstr ""
+
+#: inc/customizer/header.php:6
+msgid "Header Options"
+msgstr ""
+
+#: inc/customizer/header.php:7
+msgid "Header related options"
+msgstr ""
+
+#: inc/customizer/header.php:32
+msgid "Header style"
+msgstr ""
+
+#: content-company.php:41 content-single-company.php:99
+#: inc/wp-job-manager.php:259 single-company.php:160 single-company.php:238
+msgid "Headquarters"
+msgstr ""
+
+#: inc/customizer/jobs_home.php:62 inc/customizer/resume_home.php:54
+msgid "healthcare, automotive, sales & marketing, accounting & finance"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-dimensions.php:137
+msgid "Height"
+msgstr ""
+
+#: inc/customizer/jobs_home.php:96 inc/customizer/resume_home.php:71
+msgid "Height is set by adjusting top and bottom padding"
+msgstr ""
+
+#: inc/customizer/jobs_home.php:95 inc/customizer/resume_home.php:70
+msgid "Height of the search banner"
+msgstr ""
+
+#: wp-job-manager-applications/job-applications.php:74
+msgid "Hello %s"
+msgstr ""
+
+#: company-dashboard.php:74 wp-job-manager-resumes/candidate-dashboard.php:74
+msgid "Hide"
+msgstr "Peida"
+
+#: inc/class-tgm-plugin-activation.php:3682
+msgid "Hide Details"
+msgstr ""
+
+#: archive-job_listing.php:29 archive-job_listing.php:47
+#: archive-job_listing.php:68 taxonomy-job_listing_category.php:37
+#: taxonomy-job_listing_category.php:55 taxonomy-job_listing_category.php:76
+#: taxonomy-job_listing_region.php:37 taxonomy-job_listing_region.php:55
+#: taxonomy-job_listing_region.php:76 taxonomy-job_listing_tag.php:37
+#: taxonomy-job_listing_tag.php:55 taxonomy-job_listing_tag.php:76
+#: taxonomy-job_listing_type.php:37 taxonomy-job_listing_type.php:55
+#: taxonomy-job_listing_type.php:76 template-jobs-fullpage.php:36
+#: template-jobs-fullpage.php:54 template-jobs-fullpage.php:75
+#: template-parts/archive-jobs-split-view.php:20
+#: template-parts/archive-jobs-split-view.php:38
+#: template-parts/archive-jobs-split-view.php:59
+msgid "Hide Filters"
+msgstr ""
+
+#: inc/customizer/jobs.php:212
+msgid "Hide job listing excerpt on the jobs list"
+msgstr ""
+
+#: inc/customizer/jobs.php:145
+msgid "Hide titlebar on Jobs page"
+msgstr ""
+
+#: inc/customizer/jobs_home.php:37 inc/customizer/resume_home.php:28
+msgid "Hire experts or be hired in"
+msgstr ""
+
+#: template-dashboard.php:512
+msgid "Home"
+msgstr "Kasutaja"
+
+#: inc/customizer/title_tagline.php:19
+msgid "Home Page Logo for transparent header"
+msgstr ""
+
+#: inc/customizer/homesearch.php:5
+msgid "Home Search Options"
+msgstr ""
+
+#: inc/customizer/jobs.php:333 job_manager/content-single-job_listing.php:221
+#: template-parts/single-job-classic.php:299 template-parts/single-job.php:413
+msgid "Hours"
+msgstr "Tunde"
+
+#: envato_setup/importer/wordpress-importer.php:1055
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: template-dashboard.php:478
+msgid "Howdy,"
+msgstr "Hei, "
+
+#: inc/customizer/contact.php:80
+msgid "HTML content of marker"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://purethemes.net/"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://wordpress-722045-2428611.cloudwaysapps.com/"
+msgstr ""
+
+#: inc/wp-job-manager.php:61
+msgid "I want to register as"
+msgstr ""
+
+#: inc/customizer/footer.php:44 inc/customizer/footer.php:106
+msgid "Icon"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:269
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: inc/customizer/maps.php:26
+msgid ""
+"If enabled map will show ALL your jobs instead of the jobs currently "
+"filteres/searched for. "
+msgstr ""
+
+#: inc/customizer/maps.php:52
+msgid ""
+"If enabled map will show ALL your resumes instead of the resumes currently "
+"filteres/searched for. "
+msgstr ""
+
+#: job_manager/account-signin.php:16
+msgid ""
+"If you don&rsquo;t have an account you can %screate one below by entering "
+"your email address/username. Your account details will be confirmed via "
+"email."
+msgstr ""
+
+#: wp-job-manager-resumes/account-signin.php:29
+msgid ""
+"If you don&rsquo;t have an account you can create one below by entering your "
+"email address. A password will be automatically emailed to you."
+msgstr ""
+
+#: inc/customizer/jobs.php:270
+msgid "If you don't like cropped out logos, move them to the right!"
+msgstr ""
+
+#: inc/customizer/title_tagline.php:20
+msgid ""
+"If you need to use different logo in case yours not readable on transparent "
+"header"
+msgstr ""
+
+#: inc/customizer/header.php:101
+msgid ""
+"If your screen width will be smaller than this value, the menu will always "
+"switch to alternatvie"
+msgstr ""
+
+#: inc/customizer/jobs_home.php:208
+msgid "Image "
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:1131
+msgid ""
+"Import <strong>posts, pages, comments, custom fields, categories, and "
+"tags</strong> from a WordPress export file."
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:299
+msgid "Import author:"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:1033
+msgid "Import WordPress"
+msgstr ""
+
+#: kirki/upgrade-notifications.php:30
+msgid "Important Upgrade Notice:"
+msgstr ""
+
+#: inc/mini_cart.php:13
+msgid "in the shopping cart"
+msgstr ""
+
+#: archive-company.php:64
+msgid "Industries"
+msgstr ""
+
+#: archive-company.php:63 content-single-company.php:114
+#: inc/wp-job-manager.php:271 single-company.php:175
+msgid "Industry"
+msgstr "Valdkond"
+
+#: kirki/controls/php/class-kirki-control-typography.php:139
+#: kirki/controls/php/class-kirki-control-typography.php:181
+#: kirki/controls/php/class-kirki-control-typography.php:197
+msgid "Inherit"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-typography.php:180
+#: kirki/controls/php/class-kirki-control-typography.php:196
+msgid "Initial"
+msgstr ""
+
+#: envato_setup/envato_setup.php:1131
+msgid "Insert default sidebar widgets as seen in the demo."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2867
+msgid "Install"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2751
+msgid "Install %2$s"
+msgstr ""
+
+#: kirki/core/class-kirki-init.php:368
+msgid "Install Plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:341
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:340
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2490
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2467
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2638
+msgid "Installed version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3669
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: envato_setup/envato_setup.php:1151
+msgid "Installing Default Settings."
+msgstr ""
+
+#: envato_setup/envato_setup.php:1133
+msgid "Installing Default Widgets."
+msgstr ""
+
+#: envato_setup/envato_setup.php:1061
+msgid "Installing Plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3677
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:343
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: envato_setup/envato_setup_init.php:68
+msgid "Installing Updates."
+msgstr ""
+
+#: envato_setup/envato_setup.php:1104
+msgid "Installing."
+msgstr ""
+
+#: inc/customizer/jobs.php:113
+msgid "Instead of the right side floated types"
+msgstr ""
+
+#: envato_setup/envato_setup.php:406
+msgid "Introduction"
+msgstr ""
+
+#: inc/licenser.php:182
+msgid "Invalid"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:866
+msgid "Invalid file type"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-dimension.php:41
+#: kirki/controls/php/class-kirki-control-dimensions.php:138
+msgid "Invalid Value"
+msgstr ""
+
+#: envato_setup/envato_setup.php:1172
+msgid ""
+"It looks like you already have content installed on this website. If you "
+"would like to install the default demo content as well you can select it "
+"below. Otherwise just choose the upgrade option to ensure everything is up "
+"to date."
+msgstr ""
+
+#: envato_setup/envato_setup.php:683
+msgid ""
+"It looks like you have already run the setup wizard. Below are some options: "
+msgstr ""
+
+#: envato_setup/envato_setup.php:674
+msgid ""
+"It looks like you may have recently upgraded to this theme. Great! This "
+"setup wizard will help ensure all the default settings are correct. It will "
+"also show some information about your new website and support options."
+msgstr ""
+
+#: archive-company.php:174 template-parts/content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: envato_setup/envato_setup.php:1174
+msgid ""
+"It's time to insert some default content for your new WordPress website. "
+"Choose what you would like inserted below and click Continue. It is "
+"recommended to leave everything selected. Once inserted, this content can be "
+"managed from the WordPress admin dashboard. "
+msgstr ""
+
+#: envato_setup/envato_setup.php:1184
+msgid "Item"
+msgstr ""
+
+#: wp-job-manager-applications/past-applications.php:3
+msgid "Job"
+msgstr "Tööpakkumine"
+
+#: template-dashboard.php:295
+msgid "Job Alerts"
+msgstr "Teavitused"
+
+#: inc/cmb2-meta-boxes.php:287
+msgid "Job categories filter"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Job Categories Page Template"
+msgstr ""
+
+#: job_manager/job-submit.php:47
+msgid "Job Details"
+msgstr "Uus tööpakkumine"
+
+#: job_manager/content-single-job_listing.php:319
+#: template-parts/single-job-classic.php:426 template-parts/single-job.php:536
+msgid "Job Location"
+msgstr "Asukoht"
+
+#: inc/customizer/jobs.php:193
+msgid "Job meta informations on jobs list"
+msgstr ""
+
+#: functions.php:419
+msgid "job offer"
+msgstr "pakkumise"
+
+#: functions.php:420
+msgid "job offers"
+msgstr "pakkumist"
+
+#: inc/customizer/jobs.php:281
+msgid "Job options"
+msgstr ""
+
+#: template-parts/single-job-classic.php:228 template-parts/single-job.php:337
+msgid "Job Overview"
+msgstr "Ülevaade"
+
+#: inc/customizer/jobs.php:322
+msgid "Job Overview elements to display"
+msgstr ""
+
+#: wp-job-manager-alerts/alert-form.php:21
+msgid "Job Region"
+msgstr "Piirkond"
+
+#: inc/customizer/jobs.php:7
+msgid "Job related options"
+msgstr ""
+
+#: inc/customizer/jobs.php:16
+msgid "Job search list related options"
+msgstr ""
+
+#: inc/cmb2-meta-boxes.php:320
+msgid "Job tags  filter"
+msgstr ""
+
+#: inc/customizer/jobs.php:332 job_manager/content-single-job_listing.php:209
+#: template-parts/single-job-classic.php:287 template-parts/single-job.php:400
+msgid "Job Title"
+msgstr "Nimetus"
+
+#: archive-job_listing.php:266 search-fields/split-jobs-keywords.php:7
+#: taxonomy-job_listing_category.php:246 taxonomy-job_listing_region.php:245
+#: taxonomy-job_listing_tag.php:246 taxonomy-job_listing_type.php:248
+#: template-home-old.php:33 template-jobs-no-map.php:70 template-jobs.php:86
+#: template-parts/archive-jobs-regular.php:94
+msgid "job title, keywords or company name"
+msgstr "Märksõna"
+
+#: template-home-box.php:48 template-home.php:53
+msgid "Job title, Skill, Industry"
+msgstr "Märksõna"
+
+#: search-fields/split-jobs-job_types.php:5
+#: wp-job-manager-alerts/alert-form.php:87
+msgid "Job Type"
+msgstr "Töövorm"
+
+#: inc/cmb2-meta-boxes.php:276
+msgid "Job types filter"
+msgstr ""
+
+#: archive-job_listing.php:209
+msgid "Jobs"
+msgstr "Tööpakkumised"
+
+#: inc/customizer/jobs.php:255
+msgid "Jobs Archive number of listings"
+msgstr ""
+
+#: inc/customizer/jobs.php:242
+msgid "Jobs Archive order"
+msgstr ""
+
+#: inc/customizer/jobs.php:223
+msgid "Jobs Archive orderby"
+msgstr ""
+
+#: inc/woocommerce.php:42 template-jobpackages.php:133
+#: woocommerce/content-product.php:90
+#: woocommerce/single-product/tabs/description.php:49
+msgid "Jobs are posted "
+msgstr ""
+
+#: inc/customizer/jobs.php:90
+msgid "Jobs counter on Browse Jobs page"
+msgstr ""
+
+#: inc/customizer/jobs.php:124
+msgid "Jobs header image"
+msgstr ""
+
+#: inc/customizer/jobs_home.php:4
+msgid "Jobs Home Page Options"
+msgstr ""
+
+#: inc/customizer/jobs.php:42
+msgid "Jobs list layout"
+msgstr ""
+
+#: inc/customizer/jobs.php:15
+msgid "Jobs Lists Options"
+msgstr ""
+
+#: inc/customizer/jobs.php:6
+msgid "Jobs Options"
+msgstr ""
+
+#: inc/customizer/jobs.php:26
+msgid "Jobs Page layout"
+msgstr ""
+
+#: functions.php:159
+msgid "Jobs page sidebar"
+msgstr ""
+
+#: inc/customizer/jobs_home.php:79
+msgid "Jobs Search Form elements to display"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Jobs With Map - Split Page"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-typography.php:163
+msgid "Justify"
+msgstr ""
+
+#: inc/customizer/blog.php:81
+msgid "Keep up to date with the latest news"
+msgstr ""
+
+#: wp-job-manager-alerts/alert-form.php:14
+msgid "Keyword"
+msgstr "Märksõna"
+
+#: inc/customizer/jobs_home.php:85 inc/customizer/resume_home.php:145
+msgid "Keyword input"
+msgstr ""
+
+#: wp-job-manager-alerts/my-alerts.php:13
+msgid "Keywords"
+msgstr "Märksõnad"
+
+#: template-home-old.php:33
+msgid "keywords"
+msgstr "märksõnad"
+
+#: kirki/core/class-kirki.php:237
+msgid ""
+"Kirki fields should not be added on customize_register. Please add them "
+"directly, or on init."
+msgstr ""
+
+#: inc/customizer/footer.php:73
+msgid "Label"
+msgstr ""
+
+#: inc/widgets.php:122
+msgid "Latest comments"
+msgstr ""
+
+#: inc/widgets.php:125
+msgid "Latest comments Title"
+msgstr ""
+
+#: inc/customizer/contact.php:68
+msgid "Latitude (required)"
+msgstr ""
+
+#: inc/cmb2-meta-boxes.php:179 inc/cmb2-meta-boxes.php:207
+msgid "Layout"
+msgstr ""
+
+#: inc/cmb2-meta-boxes.php:186 inc/cmb2-meta-boxes.php:227
+msgid "Layout "
+msgstr ""
+
+#: inc/customizer/layout.php:5
+msgid "Layout and header options"
+msgstr ""
+
+#: inc/customizer/layout.php:4
+msgid "Layout Options"
+msgstr ""
+
+#: inc/customizer/layout.php:15
+msgid "Layout style"
+msgstr ""
+
+#: envato_setup/envato_setup.php:3018
+msgid "Learn how to use WordPress"
+msgstr ""
+
+#: inc/template-tags.php:111
+msgid "Leave a comment"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:74
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: envato_setup/envato_setup.php:3020
+msgid "Leave an Item Rating"
+msgstr ""
+
+#: inc/customizer/jobs.php:274
+#: kirki/controls/php/class-kirki-control-dimensions.php:131
+#: kirki/controls/php/class-kirki-control-typography.php:145
+#: kirki/field/class-kirki-field-spacing.php:34
+msgid "Left"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-background.php:85
+#: kirki/controls/php/class-kirki-control-dimensions.php:116
+msgid "Left Bottom"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-background.php:84
+#: kirki/controls/php/class-kirki-control-dimensions.php:115
+msgid "Left Center"
+msgstr ""
+
+#: inc/cmb2-meta-boxes.php:191 inc/cmb2-meta-boxes.php:232
+msgid "Left sidebar"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-background.php:83
+#: kirki/controls/php/class-kirki-control-dimensions.php:114
+msgid "Left Top"
+msgstr ""
+
+#: envato_setup/envato_setup.php:676 envato_setup/envato_setup.php:714
+#: envato_setup/envato_setup.php:816 envato_setup/envato_setup.php:872
+msgid "Let's Go!"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-dimensions.php:127
+#: kirki/controls/php/class-kirki-control-typography.php:118
+msgid "Letter Spacing"
+msgstr ""
+
+#: envato_setup/envato_setup.php:413
+msgid "License Activation"
+msgstr ""
+
+#: envato_setup/envato_setup.php:904
+msgid "License code"
+msgstr ""
+
+#: inc/licenser.php:189
+msgid "License Type:"
+msgstr ""
+
+#: kirki/modules/webfonts/class-kirki-fonts.php:201
+msgid "Light 200"
+msgstr ""
+
+#: kirki/modules/webfonts/class-kirki-fonts.php:202
+msgid "Light 200 Italic"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-repeater.php:227
+msgid "Limit: %s rows"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-dimensions.php:125
+#: kirki/controls/php/class-kirki-control-typography.php:110
+msgid "Line Height"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-typography.php:195
+msgid "Line-Through"
+msgstr ""
+
+#: inc/cmb2-meta-boxes.php:24
+msgid "Link to author's website (optional)"
+msgstr ""
+
+#: inc/customizer/blog.php:99 inc/customizer/jobs.php:352
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/customizer/jobs.php:48
+msgid "List"
+msgstr ""
+
+#: functions.php:414
+msgid "Load previous listings"
+msgstr ""
+
+#: content-single-company.php:177 inc/customizer/jobs.php:200
+#: inc/customizer/jobs.php:331 job_manager/content-single-job_listing.php:200
+#: search-fields/split-location.php:8 single-company.php:155
+#: template-parts/single-job-classic.php:278 template-parts/single-job.php:390
+#: wp-job-manager-alerts/alert-form.php:40
+#: wp-job-manager-alerts/my-alerts.php:20
+msgid "Location"
+msgstr "Asukoht"
+
+#: inc/customizer/jobs_home.php:86 inc/customizer/resume_home.php:146
+msgid "Location/Region input"
+msgstr ""
+
+#: inc/cmb2-meta-boxes.php:264
+msgid "Location/resume filter "
+msgstr ""
+
+#: header-dashboard.php:165 header-dashboard.php:170 header-dashboard.php:208
+#: header.php:186 header.php:191 header.php:235
+#: template-parts/login-custom.php:31 template-parts/login-custom.php:36
+#: template-parts/login-um.php:34 template-parts/login-woocommerce.php:37
+#: template-parts/login-woocommerce.php:42
+#: template-parts/login-workscout.php:43 template-parts/login-workscout.php:48
+msgid "Log In"
+msgstr "Logi sisse"
+
+#: template-parts/login-custom.php:19 template-parts/login-um.php:24
+#: template-parts/login-woocommerce.php:20
+#: template-parts/login-workscout.php:30
+msgid "Log Out"
+msgstr ""
+
+#: template-login.php:74
+msgid "Log out"
+msgstr ""
+
+#: template-dashboard.php:185 template-login.php:97
+#: template-parts/login-custom.php:60 template-parts/login-woocommerce.php:57
+#: template-parts/login-workscout.php:64
+#: woocommerce/myaccount/form-login.php:34
+#: woocommerce/myaccount/form-login.php:61
+msgid "Login"
+msgstr "Logi sisse"
+
+#: envato_setup/envato_setup.php:3101
+msgid "Login for %s updates"
+msgstr ""
+
+#: wp-job-manager-bookmarks/logged-out-bookmark-form.php:4
+#: wp-job-manager-bookmarks/logged-out-bookmark-form.php:10
+msgid "Login to bookmark"
+msgstr "Järjehoidja lisamiseks logi sisse"
+
+#: single-resume.php:120 single-resume.php:123
+#: template-parts/single-job-classic.php:150
+#: template-parts/single-job-classic.php:153 template-parts/single-job.php:234
+#: template-parts/single-job.php:237
+msgid "Login to Send Message"
+msgstr "Sõnumi saatmiseks pead olema sisse logitud."
+
+#: envato_setup/envato_setup.php:2875
+msgid "Login with Envato"
+msgstr ""
+
+#: inc/customizer/header.php:123
+msgid "Login/Sign Up buttons in header"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2718
+msgid "Logo &amp; Design"
+msgstr ""
+
+#: inc/customizer/title_tagline.php:7
+msgid "Logo image"
+msgstr ""
+
+#: inc/customizer/title_tagline.php:30
+msgid "Logo image max height"
+msgstr ""
+
+#: inc/customizer/jobs.php:268
+msgid "Logo position on jobs list"
+msgstr ""
+
+#: inc/customizer/shop.php:51 template-dashboard.php:444
+msgid "Logout"
+msgstr "Väljun"
+
+#: inc/customizer/contact.php:74
+msgid "Longitude (required)"
+msgstr "Pikkuskraad"
+
+#: woocommerce/myaccount/form-login.php:67
+msgid "Lost your password?"
+msgstr "Salasõna kadunud?"
+
+#: kirki/controls/php/class-kirki-control-typography.php:179
+msgid "Lowercase"
+msgstr ""
+
+#: template-dashboard.php:265
+msgid "Main"
+msgstr "Ülevaade"
+
+#: inc/customizer/header.php:83
+msgid "Make header full-width"
+msgstr ""
+
+#: inc/cmb2-meta-boxes.php:90
+msgid "Make header transparent "
+msgstr ""
+
+#: template-dashboard.php:339
+msgid "Manage Companies"
+msgstr "Halda tööandja profiile"
+
+#: template-dashboard.php:313
+msgid "Manage Jobs"
+msgstr "Tööpakkumised"
+
+#: template-dashboard.php:375
+msgid "Manage Resumes"
+msgstr "Halda oma CV-sid"
+
+#: inc/customizer/maps.php:70
+msgid "Map height"
+msgstr ""
+
+#: inc/licenser.php:112 inc/licenser.php:263
+msgid "Map Settings"
+msgstr ""
+
+#: inc/customizer/maps.php:153
+msgid "Map type"
+msgstr ""
+
+#: inc/customizer/maps.php:3
+msgid "Maps Options"
+msgstr ""
+
+#: inc/customizer/maps.php:4
+msgid "Maps related options"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-typography.php:213
+msgid "Margin Bottom"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-typography.php:205
+msgid "Margin Top"
+msgstr ""
+
+#: job_manager/job-dashboard.php:67
+msgid "Mark filled"
+msgstr "Märgi täidetuks"
+
+#: job_manager/job-dashboard.php:65
+msgid "Mark not filled"
+msgstr "Tee aktiivseks"
+
+#: inc/customizer/contact.php:54
+msgid "Marker"
+msgstr ""
+
+#: inc/customizer/maps.php:80
+msgid "Marker color"
+msgstr ""
+
+#: inc/customizer/contact.php:49
+msgid "Markers on map"
+msgstr ""
+
+#: job_manager/form-fields/file-field.php:53
+msgid "Maximum file size: %s."
+msgstr "Suurim lubatud fail kuni 1MB."
+
+#: kirki/modules/webfonts/class-kirki-fonts.php:208
+msgid "Medium 500"
+msgstr ""
+
+#: kirki/modules/webfonts/class-kirki-fonts.php:209
+msgid "Medium 500 Italic"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:790
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:783
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: wp-job-manager-resumes/apply-with-resume.php:22
+msgid "Message"
+msgstr "Sõnum"
+
+#: template-dashboard.php:274
+msgid "Messages"
+msgstr "Sõnumid"
+
+#: sidebar.php:27 sidebar.php:45 sidebar.php:64
+msgid "Meta"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2646
+msgid "Minimum required version:"
+msgstr ""
+
+#: functions.php:92
+msgid "Mobile Menu"
+msgstr ""
+
+#: functions.php:261
+msgid "Mobile Menu widget"
+msgstr ""
+
+#: functions.php:262
+msgid "Mobilel Menu area"
+msgstr ""
+
+#: inc/customizer/jobs.php:313
+msgid "Modern"
+msgstr ""
+
+#: envato_setup/envato_setup.php:3014
+msgid "More Resources"
+msgstr ""
+
+#: inc/customizer/jobs.php:69
+msgid "Move keyword search to the sidebar on Jobs list"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:43
+msgid "My account"
+msgstr ""
+
+#: template-dashboard.php:401
+msgid "My Applications"
+msgstr "Minu kandideerimised"
+
+#: template-dashboard.php:429
+msgid "My Orders"
+msgstr ""
+
+#: template-dashboard.php:418
+msgid "My Profile"
+msgstr "Minu profiil"
+
+#: template-dashboard.php:439
+msgid "My Subscriptions"
+msgstr ""
+
+#: inc/customizer/shop.php:39
+msgid "MyAccount navigation control "
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:78
+msgid "Name"
+msgstr "Pealkiri"
+
+#: template-home-box.php:124 template-home-resumes.php:132
+#: template-home.php:133
+msgid "Need more search options?"
+msgstr "Soovid rohkem valikuid?"
+
+#: job_manager/content-job_listing.php:226
+#: job_manager/content-single-job_listing.php:48
+#: template-parts/single-job-classic.php:54 template-parts/single-job.php:54
+msgid "NEW"
+msgstr "UUS!"
+
+#: job_manager/content-job_listing.php:81
+#: job_manager/content-job_listing.php:160
+msgid "new"
+msgstr "Uus"
+
+#: comments.php:50 comments.php:72
+msgid "Newer Comments"
+msgstr ""
+
+#: inc/template-tags.php:193
+msgid "Newer posts"
+msgstr ""
+
+#: wp-job-manager-applications/job-applications.php:37
+msgid "Newest first"
+msgstr "Uued eespool"
+
+#: job_manager/job-pagination.php:41
+msgid "Next"
+msgstr "Järgmine"
+
+#: envato_setup/envato_setup.php:3006
+msgid "Next Steps"
+msgstr ""
+
+#: wp-job-manager-alerts/my-alerts.php:103
+msgid "Next: %s at %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:403
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: envato_setup/envato_setup.php:1220
+msgid "No content Found"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-background.php:59
+#: kirki/controls/php/class-kirki-control-base.php:132
+#: kirki/controls/php/class-kirki-control-repeater.php:408
+#: kirki/controls/php/class-kirki-control-repeater.php:413
+msgid "No File Selected"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-repeater.php:376
+#: kirki/controls/php/class-kirki-control-repeater.php:381
+msgid "No Image Selected"
+msgstr ""
+
+#: kirki/controls/views/image.php:38 kirki/field/class-kirki-field-image.php:51
+msgid "No image selected"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3085
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2950
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2952
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2681
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3059
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2907
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2909
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/mini_cart.php:43
+msgid "No products in the cart."
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-background.php:72
+msgid "No Repeat"
+msgstr ""
+
+#: functions.php:509
+msgid "No results match"
+msgstr ""
+
+#: content-company.php:105 content-single-company.php:33 single-company.php:57
+msgid "No reviews yet"
+msgstr "Anna tööandjale hinnang"
+
+#: inc/cmb2-meta-boxes.php:129 inc/theme-options.php:49
+msgid "No Sliders Found"
+msgstr ""
+
+#: envato_setup/envato_setup.php:1015
+msgid "No Slug Found"
+msgstr ""
+
+#: envato_setup/envato_setup.php:712
+msgid ""
+"No time right now? If you don't want to go through the wizard, you can skip "
+"and return to the WordPress dashboard. Come back anytime if you change your "
+"mind!"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-typography.php:176
+#: kirki/controls/php/class-kirki-control-typography.php:192
+msgid "None"
+msgstr ""
+
+#: kirki/modules/webfonts/class-kirki-fonts.php:205
+#: kirki/modules/webfonts/class-kirki-fonts.php:206
+msgid "Normal 400"
+msgstr ""
+
+#: kirki/modules/webfonts/class-kirki-fonts.php:207
+msgid "Normal 400 Italic"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2463
+msgid "Not Installed"
+msgstr ""
+
+#: envato_setup/envato_setup.php:677 envato_setup/envato_setup.php:715
+msgid "Not right now"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:94
+msgid "Not that bad"
+msgstr ""
+
+#: wp-job-manager-applications/job-applications.php:89
+#: wp-job-manager-bookmarks/my-bookmarks.php:8
+msgid "Notes"
+msgstr "Märkmed"
+
+#: wp-job-manager-bookmarks/bookmark-form.php:19
+msgid "Notes:"
+msgstr "Märkmed:"
+
+#: archive-company.php:158 template-parts/content-none.php:15
+msgid "Nothing Found"
+msgstr "Tulemusi ei leitud"
+
+#: inc/customizer/footer.php:52
+msgid "Number"
+msgstr ""
+
+#: envato_setup/envato_setup.php:3108
+msgid "oAuth Login"
+msgstr ""
+
+#: inc/cmb2-meta-boxes.php:220 inc/cmb2-meta-boxes.php:270
+#: inc/cmb2-meta-boxes.php:282 inc/cmb2-meta-boxes.php:293
+#: inc/cmb2-meta-boxes.php:304 inc/cmb2-meta-boxes.php:315
+#: inc/cmb2-meta-boxes.php:326 inc/customizer/layout.php:35
+#: kirki/controls/php/class-kirki-control-switch.php:56
+#: kirki/field/class-kirki-field-switch.php:40
+msgid "Off"
+msgstr ""
+
+#: comments.php:49 comments.php:71
+msgid "Older Comments"
+msgstr ""
+
+#: inc/template-tags.php:189
+msgid "Older posts"
+msgstr ""
+
+#: inc/cmb2-meta-boxes.php:219 inc/cmb2-meta-boxes.php:269
+#: inc/cmb2-meta-boxes.php:281 inc/cmb2-meta-boxes.php:292
+#: inc/cmb2-meta-boxes.php:303 inc/cmb2-meta-boxes.php:314
+#: inc/cmb2-meta-boxes.php:325 inc/customizer/layout.php:34
+#: kirki/controls/php/class-kirki-control-switch.php:52
+#: kirki/field/class-kirki-field-switch.php:39
+msgid "On"
+msgstr ""
+
+#: wp-job-manager-resumes/apply-with-resume.php:11
+msgid "Online resume"
+msgstr " Minu CV-d"
+
+#: inc/customizer/header.php:151
+msgid "Only for screen width higher then 1366px"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:109
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: 404.php:21
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: single-company.php:125
+msgid "Open Positions"
+msgstr "Käimasolevad konkursid"
+
+#: job_manager/account-signin.php:16
+msgid "optionally"
+msgstr ""
+
+#: wp-job-manager-alerts/alert-form.php:16
+msgid "Optionally add a keyword to match jobs against"
+msgstr "Võid lisada kindla märksõna, mida pakkumine peaks sisaldama"
+
+#: wp-job-manager-alerts/alert-form.php:42
+msgid "Optionally define a location to search against"
+msgstr ""
+
+#: inc/customizer/jobs_home.php:5
+msgid "Options for Page with Job Search"
+msgstr ""
+
+#: inc/customizer/homesearch.php:6
+msgid "Options for Page with Job/Resume Search"
+msgstr ""
+
+#: inc/customizer/resume_home.php:7
+msgid "Options for Page with Resume Search"
+msgstr ""
+
+#: envato_setup/envato_setup.php:759
+msgid ""
+"Options have been reset. Please go to Appearance > Customize in the "
+"WordPress backend."
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:55
+msgid "Order number:"
+msgstr "Tellimuse number:"
+
+#: inc/customizer/shop.php:47
+msgid "Orders"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-typography.php:194
+msgid "Overline"
+msgstr ""
+
+#: job_manager/content-single-job_listing.php:151
+msgid "Overview"
+msgstr "Ülevaade"
+
+#. Template Name of the plugin/theme
+msgid "Page Template Job Packages (WooCommerce)"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Page Template Login"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Page Template Resume Packages (WooCommerce)"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Page Template with Revolution Slider"
+msgstr ""
+
+#: inc/customizer/jobs_home.php:195
+msgid "Page with Box Job Search Template options"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Page with Full Page Jobs"
+msgstr ""
+
+#: inc/customizer/jobs_home.php:17
+msgid "Page with Job Search Template options"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Page with Jobs Filters"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Page with Jobs Filters No Map"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Page with Jobs Search"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Page with Jobs Search (old version)"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Page with Jobs Search Boxed"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Page with Resumes Search"
+msgstr ""
+
+#: inc/licenser.php:116 inc/licenser.php:267
+msgid "Pages"
+msgstr ""
+
+#: template-contact.php:79 template-parts/content-page.php:70
+msgid "Pages:"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:52
+#: woocommerce/myaccount/form-login.php:100
+msgid "Password"
+msgstr "Salasõna"
+
+#: template-login.php:63
+msgid "Password changed successfully"
+msgstr "Salasõna muudetud!"
+
+#: wp-job-manager-apply-with-facebook/apply-with-facebook-form.php:12
+msgid "Past"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:41
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:78
+msgid "Payment method:"
+msgstr "Maksemeetod:"
+
+#: template-dashboard.php:489
+msgid "Pending Bookings"
+msgstr ""
+
+#: envato_setup/envato_setup.php:1103 envato_setup/envato_setup.php:1132
+#: envato_setup/envato_setup.php:1150 envato_setup/envato_setup_init.php:67
+msgid "Pending."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:91
+msgid "Perfect"
+msgstr ""
+
+#: inc/template-tags.php:219
+msgid "Pingback:"
+msgstr ""
+
+#: inc/customizer/blog.php:98 inc/customizer/jobs.php:351
+msgid "Pinterest"
+msgstr ""
+
+#: template-dashboard.php:72
+msgid "Please accept the Privacy Policy to register account."
+msgstr ""
+
+#: envato_setup/envato_setup.php:2720
+msgid ""
+"Please add your logo below. For best results, the logo should be a "
+"transparent PNG ( 200 by 40 pixels). The logo can be changed at any time "
+"from the Appearance > Customize area in your dashboard. Try %sEnvato "
+"Studio%s if you need a new logo designed."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:34
+msgid "Please attempt your purchase again or go to your account page."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:36
+msgid "Please attempt your purchase again."
+msgstr ""
+
+#: template-dashboard.php:66
+msgid "Please check reCAPTCHA checbox to register."
+msgstr ""
+
+#: envato_setup/envato_setup.php:2751
+msgid ""
+"Please choose the color scheme for this website. The color scheme (along "
+"with font colors &amp; styles) can be changed at any time from the "
+"Appearance > Customize area in your dashboard."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:410
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1042
+#: inc/class-tgm-plugin-activation.php:1052
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: envato_setup/envato_setup.php:2868
+msgid ""
+"Please login using your ThemeForest account to enable Theme Updates. We "
+"update themes when a new feature is added or a bug is fixed. It is highly "
+"recommended to enable Theme Updates."
+msgstr ""
+
+#: template-dashboard.php:75
+msgid "Please provide your first name"
+msgstr ""
+
+#: template-dashboard.php:78
+msgid "Please provide your last name"
+msgstr ""
+
+#: template-dashboard.php:84
+msgid "Please provide your user login"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2695
+msgid "Plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1243
+#: inc/class-tgm-plugin-activation.php:3099
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:400
+#: inc/class-tgm-plugin-activation.php:3311
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3310
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:405
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/licenser.php:125 inc/licenser.php:273
+msgid "Plugin Settings"
+msgstr ""
+
+#: envato_setup/envato_setup.php:429
+msgid "Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2536
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/widgets.php:114
+msgid "Popular posts"
+msgstr ""
+
+#: inc/widgets.php:117
+msgid "Popular posts Title"
+msgstr ""
+
+#: inc/customizer/jobs.php:162 inc/customizer/resumes.php:68
+msgid "Post a Job! It's Free!"
+msgstr "Lisa oma tööpakkumine siin!"
+
+#: template-parts/button-job.php:2
+msgid "Post a Job, It's Free!"
+msgstr "Lisa oma tööpakkumine siin!"
+
+#: inc/customizer/jobs.php:163 inc/customizer/resumes.php:69
+msgid "Post a Resume! It's Free!"
+msgstr ""
+
+#: template-parts/button-resume.php:2
+msgid "Post a Resume, It's Free!"
+msgstr ""
+
+#: inc/customizer/blog.php:54
+msgid "Post meta informations on blog post"
+msgstr ""
+
+#: inc/customizer/blog.php:38
+msgid "Post meta informations on single post"
+msgstr ""
+
+#: single.php:63
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:99
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:185
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2446
+msgid "Pre-Packaged"
+msgstr ""
+
+#: job_manager/job-preview.php:31
+msgid "Preview"
+msgstr "Eelvaade"
+
+#: job_manager/job-pagination.php:23
+msgid "Previous"
+msgstr "Eelmine"
+
+#: woocommerce/cart/cart.php:30 woocommerce/cart/cart.php:81
+msgid "Price"
+msgstr "Maksumus"
+
+#: functions.php:91
+msgid "Primary Menu"
+msgstr ""
+
+#: woocommerce/cart/cart.php:29 woocommerce/cart/cart.php:61
+msgid "Product"
+msgstr "Teenus"
+
+#: woocommerce/single-product/tabs/description.php:25
+msgid "Product Description"
+msgstr ""
+
+#: company-dashboard.php:80 company-dashboard.php:90
+#: wp-job-manager-resumes/candidate-dashboard.php:80
+msgid "Publish"
+msgstr "Tee nähtavaks"
+
+#. Author of the plugin/theme
+msgid "Purethemes"
+msgstr ""
+
+#: woocommerce/cart/cart.php:31 woocommerce/cart/cart.php:87
+msgid "Quantity"
+msgstr "Kogus"
+
+#: search-fields/split-radius.php:2
+msgid "Radius"
+msgstr ""
+
+#: search-fields/split-radius.php:6
+msgid "Radius around selected destination"
+msgstr ""
+
+#: inc/customizer/jobs.php:201 inc/customizer/jobs.php:334
+#: search-fields/split-jobs-rate.php:3 search-fields/split-resume-rate.php:3
+msgid "Rate"
+msgstr "Tunnitasu"
+
+#: inc/cmb2-meta-boxes.php:309
+msgid "Rate filter"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:90
+msgid "Rate&hellip;"
+msgstr ""
+
+#: job_manager/content-single-job_listing.php:238
+#: template-parts/single-job-classic.php:318 template-parts/single-job.php:431
+msgid "Rate:"
+msgstr "Tunnitasu:"
+
+#: woocommerce/single-product/review.php:37
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:36
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: wp-job-manager-applications/job-applications.php:118
+msgid "Rating (out of 5)"
+msgstr "Hinne (1-5)"
+
+#: template-parts/content-gallery.php:37 template-parts/content-quote.php:33
+#: template-parts/content-standard.php:20 template-parts/content-video.php:23
+#: template-parts/content.php:22
+msgid "Read More"
+msgstr "Loe lähemalt"
+
+#: envato_setup/envato_setup.php:3016
+msgid "Read the Theme Documentation"
+msgstr ""
+
+#: archive-company.php:165 template-parts/content-none.php:22
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: envato_setup/envato_setup.php:460
+msgid "Ready!"
+msgstr ""
+
+#: inc/widgets.php:106
+msgid "Recent posts"
+msgstr "Uued postitused"
+
+#: inc/widgets.php:109
+msgid "Recent posts Title"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2424
+msgid "Recommended"
+msgstr ""
+
+#: header-dashboard.php:166 header-dashboard.php:171 header.php:187
+#: header.php:192 template-dashboard.php:186 template-login.php:99
+#: woocommerce/myaccount/form-login.php:37
+#: woocommerce/myaccount/form-login.php:122
+msgid "Register"
+msgstr "Registreeru"
+
+#: template-dashboard.php:63
+msgid "Registering new users is currently not allowed."
+msgstr ""
+
+#: inc/licenser.php:108 inc/licenser.php:259
+msgid "Registration"
+msgstr ""
+
+#: template-parts/jobs-related.php:47
+msgid "Related Jobs"
+msgstr "Vaata ka neid tööpakkumisi"
+
+#: woocommerce/single-product/related.php:27
+msgid "Related Products"
+msgstr ""
+
+#: company-dashboard.php:106 job_manager/job-dashboard.php:74
+#: wp-job-manager-resumes/candidate-dashboard.php:93
+msgid "Relist"
+msgstr "Aktiveeri"
+
+#: woocommerce/myaccount/form-login.php:63
+msgid "Remember me"
+msgstr "Pea mind meeles"
+
+#: envato_setup/importer/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: envato_setup/envato_setup.php:2365
+#: envato_setup/importer/wordpress-importer.php:923
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2377
+#: envato_setup/importer/wordpress-importer.php:934
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2357
+#: envato_setup/importer/wordpress-importer.php:910
+msgid "Remote server did not respond"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:916
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-background.php:62
+#: kirki/controls/php/class-kirki-control-base.php:133
+#: kirki/controls/php/class-kirki-control-repeater.php:386
+#: kirki/controls/php/class-kirki-control-repeater.php:418
+#: kirki/controls/php/class-kirki-control-repeater.php:443
+#: kirki/controls/views/image.php:37 kirki/field/class-kirki-field-image.php:50
+msgid "Remove"
+msgstr "Eemalda"
+
+#: wp-job-manager-bookmarks/bookmark-form.php:5
+msgid "Remove Bookmark"
+msgstr "Eemalda järjehoidja"
+
+#: woocommerce/cart/cart.php:116
+msgid "Remove this item"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-background.php:73
+msgid "Repeat All"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-background.php:74
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-background.php:75
+msgid "Repeat Vertically"
+msgstr ""
+
+#: inc/customizer/layout.php:57
+msgid "Replace x with a number"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2421
+msgid "Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2475
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2478
+msgid "Requires Update"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-slider.php:67
+msgid "Reset"
+msgstr "Tühjenda"
+
+#: envato_setup/envato_setup.php:691
+msgid "Reset font style and colors"
+msgstr ""
+
+#: inc/customizer/resumes.php:132
+msgid "Resume Archive number of listings"
+msgstr ""
+
+#: inc/customizer/resumes.php:98
+msgid "Resume Archive order"
+msgstr ""
+
+#: inc/customizer/resumes.php:111
+msgid "Resume Archive orderby"
+msgstr ""
+
+#: inc/customizer/resume_home.php:6
+msgid "Resume Home Page Options"
+msgstr ""
+
+#: inc/customizer/resumes.php:15
+msgid "Resume related options"
+msgstr ""
+
+#: inc/customizer/resume_home.php:139
+msgid "Resume Search Form elements to display"
+msgstr ""
+
+#: inc/woocommerce.php:65 template-resumepackages.php:136
+#: woocommerce/content-product.php:116
+#: woocommerce/single-product/tabs/description.php:73
+msgid "Resumes are posted "
+msgstr ""
+
+#: inc/customizer/resumes.php:52
+msgid "Resumes header image"
+msgstr ""
+
+#: inc/customizer/resumes.php:6 inc/customizer/resumes.php:14
+msgid "Resumes Options"
+msgstr ""
+
+#: inc/customizer/resumes.php:27
+msgid "Resumes Page layout"
+msgstr ""
+
+#: functions.php:186
+msgid "Resumes page sidebar"
+msgstr ""
+
+#: inc/customizer/resumes.php:7
+msgid "Resumes related options"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Resumes With Map - Split Page"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:398
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:399
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: envato_setup/envato_setup.php:587
+msgid "Return to the WordPress Dashboard"
+msgstr ""
+
+#: archive-company.php:81 archive-company.php:82 content-single-company.php:119
+#: inc/wp-job-manager.php:275 single-company.php:180
+msgid "Revenue"
+msgstr "Käive"
+
+#: woocommerce/single-product-reviews.php:36
+msgid "Reviews"
+msgstr "Hinnangud"
+
+#: inc/cmb2-meta-boxes.php:151
+msgid "Revolution Slider"
+msgstr ""
+
+#: inc/customizer/jobs.php:275
+#: kirki/controls/php/class-kirki-control-dimensions.php:132
+#: kirki/controls/php/class-kirki-control-typography.php:157
+#: kirki/field/class-kirki-field-spacing.php:35
+msgid "Right"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-background.php:88
+#: kirki/controls/php/class-kirki-control-dimensions.php:119
+msgid "Right Bottom"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-background.php:87
+#: kirki/controls/php/class-kirki-control-dimensions.php:118
+msgid "Right Center"
+msgstr ""
+
+#: inc/cmb2-meta-boxes.php:192 inc/cmb2-meta-boxes.php:234
+msgid "Right sidebar"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-background.php:86
+#: kirki/controls/php/class-kirki-control-dimensions.php:117
+msgid "Right Top"
+msgstr ""
+
+#: inc/customizer/resumes.php:88
+msgid "Rounded resumes photos"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-repeater.php:77
+msgid "row"
+msgstr ""
+
+#: envato_setup/envato_setup.php:686
+msgid "Run Setup Wizard Again"
+msgstr ""
+
+#: inc/customizer/jobs.php:202 inc/customizer/jobs.php:335
+#: search-fields/split-jobs-salary.php:3
+msgid "Salary"
+msgstr "Töötasu"
+
+#: inc/cmb2-meta-boxes.php:298
+msgid "Salary filter"
+msgstr ""
+
+#: job_manager/content-single-job_listing.php:273
+#: template-parts/single-job-classic.php:361 template-parts/single-job.php:470
+msgid "Salary:"
+msgstr "Töötasu:"
+
+#: wp-job-manager-alerts/alert-form.php:113
+msgid "Save alert"
+msgstr "Salvesta"
+
+#: wp-job-manager-applications/job-applications.php:126
+msgid "Save changes"
+msgstr "Salvesta"
+
+#: job_manager/job-submit.php:118
+msgid "Save Draft"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-background.php:116
+msgid "Scroll"
+msgstr ""
+
+#: archive-company.php:131 template-home-box.php:109
+#: template-home-resumes.php:117 template-home.php:116
+msgid "Search"
+msgstr "Otsin"
+
+#: inc/customizer/jobs_home.php:163 inc/customizer/resume_home.php:109
+msgid "Search banner overlay color"
+msgstr ""
+
+#: inc/customizer/jobs_home.php:34 inc/customizer/resume_home.php:27
+msgid "Search banner Subtitle"
+msgstr ""
+
+#: inc/customizer/jobs_home.php:24 inc/customizer/resume_home.php:17
+msgid "Search banner Title"
+msgstr ""
+
+#: inc/customizer/jobs_home.php:268
+msgid "Search boxed overlay color"
+msgstr ""
+
+#: search-fields/split-radius.php:18
+msgid "Search by Radius"
+msgstr ""
+
+#: archive-resume.php:120 resumes.php:78
+#: search-fields/split-resume-keywords.php:7 taxonomy-resume_category.php:157
+#: taxonomy-resume_region.php:157 taxonomy-resume_skill.php:158
+#: template-home-resumes.php:54 template-parts/archive-resumes-regular.php:79
+msgid "Search freelancer services (e.g. logo design)"
+msgstr "IT, disain, vabakutseline"
+
+#: archive-company.php:57
+msgid "Search keywords"
+msgstr "Märksõnad"
+
+#: search.php:20
+msgid "Search Results for: %s"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-repeater.php:121
+msgid "Select a Page"
+msgstr ""
+
+#: inc/wp-job-manager.php:366 job_manager/job-submit.php:73
+msgid "Select Company"
+msgstr "Tööandja profiil"
+
+#: kirki/controls/php/class-kirki-control-background.php:63
+#: kirki/controls/php/class-kirki-control-base.php:135
+msgid "Select File"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-typography.php:83
+#: kirki/controls/php/class-kirki-control-typography.php:88
+msgid "Select Font Family"
+msgstr ""
+
+#: kirki/controls/views/image.php:34 kirki/controls/views/image.php:39
+#: kirki/field/class-kirki-field-image.php:47
+#: kirki/field/class-kirki-field-image.php:52
+msgid "Select image"
+msgstr ""
+
+#: inc/customizer/colors.php:8
+msgid "Select main theme color"
+msgstr ""
+
+#: search-fields/split-jobs-rate.php:7 search-fields/split-resume-rate.php:7
+msgid "Select min and max rate range"
+msgstr "Vali tunnitasu vahemik"
+
+#: search-fields/split-jobs-salary.php:7
+msgid "Select min and max salary range"
+msgstr "Vali töötasu vahemik"
+
+#: inc/cmb2-meta-boxes.php:197 inc/cmb2-meta-boxes.php:239
+msgid "Select sidebar"
+msgstr ""
+
+#: kirki/modules/webfonts/class-kirki-fonts.php:210
+#: kirki/modules/webfonts/class-kirki-fonts.php:211
+msgid "Semi-Bold 600"
+msgstr ""
+
+#: kirki/modules/webfonts/class-kirki-fonts.php:212
+msgid "Semi-Bold 600 Italic"
+msgstr ""
+
+#: wp-job-manager-applications/application-form.php:24
+#: wp-job-manager-resumes/apply-with-resume.php:36
+msgid "Send application"
+msgstr "Kandideerin"
+
+#: job_manager/ws-private-message-resume.php:13
+#: job_manager/ws-private-message.php:11 single-resume.php:106
+#: single-resume.php:115 template-parts/single-job-classic.php:70
+#: template-parts/single-job-classic.php:145 template-parts/single-job.php:71
+#: template-parts/single-job.php:229
+#: wp-job-manager-resumes/contact-details.php:16
+msgid "Send Message"
+msgstr "Saada sõnum"
+
+#: inc/customizer/jobs_home.php:60 inc/customizer/resume_home.php:52
+msgid "Separate with coma"
+msgstr ""
+
+#: inc/customizer/header.php:150
+msgid "Set header height"
+msgstr ""
+
+#: inc/customizer/blog.php:29
+msgid "Set image for header, should be 1920px wide"
+msgstr ""
+
+#: inc/cmb2-meta-boxes.php:97
+msgid "Set image for header, should be 1920px wide."
+msgstr ""
+
+#: inc/customizer/jobs_home.php:154 inc/customizer/jobs_home.php:246
+#: inc/customizer/resume_home.php:99
+msgid "Set image for search banner, should be 1920px wide"
+msgstr ""
+
+#: inc/customizer/title_tagline.php:31
+msgid ""
+"Set image height for retina version in case the logo is displayed too big"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:735
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: inc/cmb2-meta-boxes.php:265 inc/cmb2-meta-boxes.php:277
+#: inc/cmb2-meta-boxes.php:288 inc/cmb2-meta-boxes.php:299
+#: inc/cmb2-meta-boxes.php:310 inc/cmb2-meta-boxes.php:321
+msgid "set to OFF to hide it from filters"
+msgstr ""
+
+#: inc/customizer/jobs.php:92
+msgid "Set to OFF to show default titlebar"
+msgstr ""
+
+#: inc/customizer/jobs.php:81
+msgid "Set to ON to hide it"
+msgstr ""
+
+#: inc/customizer/jobs.php:147
+msgid "Set to ON to hide titlebar on browse jobs page"
+msgstr ""
+
+#: inc/customizer/jobs.php:60 inc/customizer/resumes.php:44
+msgid "Set to ON to show category title and description"
+msgstr ""
+
+#: inc/customizer/blog.php:39
+msgid "Set which elements of posts meta data you want to display"
+msgstr ""
+
+#: inc/customizer/blog.php:55
+msgid ""
+"Set which elements of posts meta data you want to display on blog and "
+"archive pages"
+msgstr ""
+
+#: inc/customizer/jobs.php:194
+msgid "Set which elements you want to display"
+msgstr ""
+
+#: inc/customizer/jobs_home.php:80 inc/customizer/resume_home.php:140
+msgid "Set which elements you want to display on Search Banner"
+msgstr ""
+
+#: inc/customizer/jobs.php:323
+msgid "Set which elements you want to display on single job post"
+msgstr ""
+
+#: inc/customizer/jobs.php:344
+msgid "Set which share buttons you want to display on single job post"
+msgstr ""
+
+#: inc/customizer/blog.php:90
+msgid "Set which share buttons you want to display on single post"
+msgstr ""
+
+#: inc/customizer/maps.php:168
+msgid "Set zoom with scrollwheel"
+msgstr ""
+
+#: envato_setup/envato_setup.php:1148
+msgid "Settings"
+msgstr ""
+
+#: envato_setup/envato_setup.php:377 envato_setup/envato_setup.php:382
+msgid "Setup Wizard"
+msgstr ""
+
+#: inc/customizer/jobs.php:343
+msgid "Share buttons on single job"
+msgstr ""
+
+#: inc/customizer/blog.php:89
+msgid "Share buttons on single post"
+msgstr ""
+
+#: inc/customizer/shop.php:13
+msgid "Shop layout"
+msgstr ""
+
+#: functions.php:195
+msgid "Shop page sidebar"
+msgstr ""
+
+#: job_manager/job-dashboard.php:46
+msgid "Show"
+msgstr "Vaata"
+
+#: inc/customizer/jobs_home.php:338 inc/customizer/resume_home.php:156
+msgid "Show \"Advanced Search\" link"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3682
+msgid "Show Details"
+msgstr ""
+
+#: archive-job_listing.php:28 archive-job_listing.php:46
+#: archive-job_listing.php:67 taxonomy-job_listing_category.php:36
+#: taxonomy-job_listing_category.php:54 taxonomy-job_listing_category.php:75
+#: taxonomy-job_listing_region.php:36 taxonomy-job_listing_region.php:54
+#: taxonomy-job_listing_region.php:75 taxonomy-job_listing_tag.php:36
+#: taxonomy-job_listing_tag.php:54 taxonomy-job_listing_tag.php:75
+#: taxonomy-job_listing_type.php:36 taxonomy-job_listing_type.php:54
+#: taxonomy-job_listing_type.php:75 template-jobs-fullpage.php:35
+#: template-jobs-fullpage.php:53 template-jobs-fullpage.php:74
+#: template-parts/archive-jobs-split-view.php:19
+#: template-parts/archive-jobs-split-view.php:37
+#: template-parts/archive-jobs-split-view.php:58
+msgid "Show Filters"
+msgstr ""
+
+#: inc/customizer/jobs_home.php:349
+msgid "Show job counter"
+msgstr ""
+
+#: inc/customizer/jobs.php:112
+msgid "Show job types below title"
+msgstr ""
+
+#: inc/customizer/jobs.php:164 inc/customizer/resumes.php:70
+msgid "Show nothing"
+msgstr ""
+
+#: wp-job-manager-alerts/my-alerts.php:111
+msgid "Show Results"
+msgstr "Näita tulemusi"
+
+#: inc/customizer/resume_home.php:167
+msgid "Show resumes counter"
+msgstr ""
+
+#: inc/customizer/jobs.php:58 inc/customizer/resumes.php:42
+msgid "Show taxonomies description on archives"
+msgstr ""
+
+#: inc/customizer/shop.php:29
+msgid "Show/hide results count and order select on shop page"
+msgstr ""
+
+#: archive-company.php:20
+msgid "Showing all companies"
+msgstr "Kõik tööandjate profiilid laetud"
+
+#: archive-resume.php:74 functions.php:454 resumes.php:22
+#: template-parts/archive-resumes-regular.php:24
+msgid "Showing all resumes"
+msgstr ""
+
+#: functions.php:150
+msgid "Sidebar"
+msgstr ""
+
+#: inc/customizer/layout.php:42
+msgid "Sidebar generator"
+msgstr ""
+
+#: inc/customizer/layout.php:56
+msgid "Sidebar ID"
+msgstr ""
+
+#: inc/customizer/layout.php:50
+msgid "Sidebar name"
+msgstr ""
+
+#: inc/theme-options.php:72
+msgid "Sidebars"
+msgstr ""
+
+#: header-old.php:125
+msgid "Sign In"
+msgstr "Logi sisse"
+
+#: job_manager/account-signin.php:24 job_manager/job-dashboard-login.php:4
+#: wp-job-manager-applications/application-form-login.php:2
+#: wp-job-manager-resumes/account-signin.php:37
+#: wp-job-manager-resumes/candidate-dashboard-login.php:4
+msgid "Sign in"
+msgstr "Logi sisse"
+
+#: wp-job-manager-resumes/account-signin.php:13
+msgid "Sign out"
+msgstr "Väljun"
+
+#: header-dashboard.php:220 header.php:247 template-parts/login-custom.php:30
+#: template-parts/login-custom.php:35 template-parts/login-custom.php:47
+#: template-parts/login-um.php:33 template-parts/login-woocommerce.php:36
+#: template-parts/login-woocommerce.php:41
+#: template-parts/login-woocommerce.php:49
+#: template-parts/login-workscout.php:42 template-parts/login-workscout.php:47
+#: template-parts/login-workscout.php:56
+msgid "Sign Up"
+msgstr "Tööotsija"
+
+#: inc/customizer/jobs.php:280
+msgid "Single Job Options"
+msgstr ""
+
+#: functions.php:177
+msgid "Single job sidebar after"
+msgstr ""
+
+#: functions.php:168
+msgid "Single job sidebar before"
+msgstr ""
+
+#: inc/customizer/jobs.php:293
+msgid "Single Job Sidebar side"
+msgstr ""
+
+#: inc/customizer/jobs.php:307
+msgid "Single Job style"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-dimensions.php:134
+msgid "Size"
+msgstr ""
+
+#: envato_setup/envato_setup.php:1003 envato_setup/envato_setup.php:1208
+#: envato_setup/envato_setup.php:2779 envato_setup/envato_setup.php:2876
+msgid "Skip this step"
+msgstr ""
+
+#: inc/cmb2-meta-boxes.php:135
+msgid "Slider settings"
+msgstr ""
+
+#: inc/customizer/footer.php:101
+msgid "Social Icons"
+msgstr ""
+
+#: inc/customizer/jobs_home.php:207
+msgid "Solid backgroud"
+msgstr ""
+
+#: envato_setup/envato_setup.php:3084
+msgid "Something went wrong while trying to retrieve oauth token: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:346
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: archive-company.php:169 template-parts/content-none.php:26
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Sinu otsingule vastavaid tulemusi ei leitud. Palun proovi uuesti erinevate "
+"kriteeriumitega! :)"
+
+#: envato_setup/importer/wordpress-importer.php:134
+#: envato_setup/importer/wordpress-importer.php:143
+#: envato_setup/importer/wordpress-importer.php:194
+#: envato_setup/importer/wordpress-importer.php:198
+#: envato_setup/importer/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: wp-job-manager-applications/job-applications.php:38
+msgid "Sort by name"
+msgstr "Nime järgi"
+
+#: wp-job-manager-applications/job-applications.php:39
+msgid "Sort by rating"
+msgstr "Hinde järgi"
+
+#: inc/class-tgm-plugin-activation.php:2696
+msgid "Source"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-dimensions.php:135
+msgid "Spacing"
+msgstr ""
+
+#: inc/customizer/jobs.php:34
+msgid "Split page with job view on right"
+msgstr ""
+
+#: inc/customizer/jobs.php:33 inc/customizer/resumes.php:34
+msgid "Split page with map on right"
+msgstr ""
+
+#: inc/customizer/resumes.php:145
+msgid "Square list bullets"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-base.php:136
+msgid "Standard Fonts"
+msgstr ""
+
+#: inc/customizer/footer.php:31
+msgid "Stats counter"
+msgstr ""
+
+#: envato_setup/envato_setup.php:1186 inc/class-tgm-plugin-activation.php:2702
+#: wp-job-manager-alerts/my-alerts.php:22
+#: wp-job-manager-applications/past-applications.php:5
+msgid "Status"
+msgstr "Staatus"
+
+#: inc/licenser.php:177
+msgid "Status:"
+msgstr ""
+
+#: inc/customizer/header.php:72
+msgid "Sticky header"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:286
+#: woocommerce/single-product-reviews.php:83
+msgid "Submit"
+msgstr ""
+
+#: wp-job-manager-apply-with-facebook/apply-with-facebook-form.php:36
+msgid "Submit Application"
+msgstr ""
+
+#: template-dashboard.php:329
+msgid "Submit Job"
+msgstr "Lisa tööpakkumine"
+
+#: job_manager/job-preview.php:29
+msgid "Submit Listing"
+msgstr "Avalda"
+
+#: wp-job-manager-resumes/apply-with-resume.php:45
+msgid "Submit resume and apply"
+msgstr "Loon CV ja kandideerin"
+
+#: inc/wp-job-manager.php:335
+msgid "Submit Review"
+msgstr "Lisan"
+
+#: inc/customizer/jobs_home.php:35
+msgid "Subtitle above search form "
+msgstr ""
+
+#: envato_setup/envato_setup.php:1071
+msgid "Success"
+msgstr ""
+
+#: envato_setup/envato_setup.php:1105 envato_setup/envato_setup.php:1134
+#: envato_setup/envato_setup.php:1152 envato_setup/envato_setup_init.php:69
+msgid "Success."
+msgstr ""
+
+#: envato_setup/envato_setup.php:455
+msgid "Support"
+msgstr ""
+
+#: inc/licenser.php:199
+msgid "Support Ends on"
+msgstr ""
+
+#: inc/licenser.php:213
+msgid "Support Expired on"
+msgstr ""
+
+#: inc/template-tags.php:105
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/customizer/blog.php:46 inc/customizer/blog.php:62
+#: wp-job-manager-alerts/alert-form.php:68
+#: wp-job-manager-alerts/my-alerts.php:18
+msgid "Tags"
+msgstr "Sildid"
+
+#: inc/cmb2-meta-boxes.php:12
+msgid "Testimonials info"
+msgstr ""
+
+#: inc/customizer/jobs_home.php:25 inc/customizer/resume_home.php:18
+msgid "Text above search form "
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-typography.php:134
+msgid "Text Align"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-typography.php:189
+msgid "Text Decoration"
+msgstr ""
+
+#: inc/customizer/jobs_home.php:59 inc/customizer/resume_home.php:51
+msgid "Text to display in \"typed\" Banner Subtitle"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-typography.php:173
+msgid "Text Transform"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2112
+msgid "TGMPA v%s"
+msgstr ""
+
+#: envato_setup/envato_setup.php:868
+msgid "Thank you for activating your %s license."
+msgstr ""
+
+#: envato_setup/envato_setup.php:703
+msgid ""
+"Thank you for choosing the %s theme from ThemeForest. This quick setup "
+"wizard will help you configure your new website. This wizard will install "
+"the required WordPress plugins, default content, logo and tell you a little "
+"about Help &amp; Support options. It should only take 5 minutes."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:50 woocommerce/checkout/thankyou.php:93
+msgid "Thank you. Your order has been received."
+msgstr "Aitäh! Sinu tellimus on vastu võetud."
+
+#: template-dashboard.php:57
+msgid "The email address you entered is not valid."
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:199
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:361
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:401
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:379
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:3664
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3660
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3672
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: wp-job-manager-applications/job-applications.php:20
+msgid "The job applications for \"%s\" are listed below."
+msgstr "Avaldused \"%s\" tööpakkumisele."
+
+#: template-dashboard.php:39 template-dashboard.php:91
+msgid ""
+"The password you entered wasn't quite right. <a href='%s'>Did you forget "
+"your password</a>?"
+msgstr ""
+"Sisestatud salasõna ei olnud õige. <a href='%s'>Kas unustasid oma "
+"salasõna</a>?"
+
+#: inc/class-tgm-plugin-activation.php:1052
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1042
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: envato_setup/envato_setup.php:552
+msgid "Theme &rsaquo; Setup Wizard"
+msgstr ""
+
+#: inc/customizer/shop.php:4
+msgid "Theme related settings"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2835
+msgid "Theme Updates"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:58
+msgid "There are no reviews yet."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:409
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: envato_setup/importer/parsers.php:42 envato_setup/importer/parsers.php:72
+#: envato_setup/importer/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: wp-job-manager-bookmarks/bookmark-form.php:8
+msgid "This %s is bookmarked!"
+msgstr "See %s on lisatud järjehoidjatesse!"
+
+#: envato_setup/importer/parsers.php:84 envato_setup/importer/parsers.php:89
+#: envato_setup/importer/parsers.php:279 envato_setup/importer/parsers.php:468
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: template-parts/single-job-classic.php:168 template-parts/single-job.php:274
+msgid "This listing has expired."
+msgstr "Kuulutus on aegunud."
+
+#: inc/customizer/resume_home.php:182
+msgid ""
+"This page needs to use template named \"Job/resumes Categories Page "
+"Template\""
+msgstr ""
+
+#: inc/woocommerce.php:36 inc/woocommerce.php:58 template-jobpackages.php:126
+#: template-resumepackages.php:128 woocommerce/content-product.php:82
+#: woocommerce/content-product.php:108
+#: woocommerce/single-product/tabs/description.php:42
+#: woocommerce/single-product/tabs/description.php:66
+msgid "This plan includes "
+msgstr "Avalda kuni "
+
+#: inc/class-tgm-plugin-activation.php:616
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3103
+msgid "This plugin was activated successfully:"
+msgid_plural "Those plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: template-parts/single-job-classic.php:100 template-parts/single-job.php:102
+msgid "This position has been filled"
+msgstr "See ametikoht sai täidetud!"
+
+#: inc/class-tgm-plugin-activation.php:355
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: template-dashboard.php:26 template-dashboard.php:81
+msgid "This username already exists?"
+msgstr "See kasutajanimi on juba registreeritud."
+
+#: inc/customizer/layout.php:51
+msgid "This will be name of sidebar"
+msgstr ""
+
+#: envato_setup/envato_setup.php:1102
+msgid "This will create default %s as seen in the demo."
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:215
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: inc/cmb2-meta-boxes.php:214
+msgid "Titlebar "
+msgstr ""
+
+#: inc/cmb2-meta-boxes.php:215
+msgid "Titlebar status"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2548
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/myaccount/dashboard.php:46
+msgid ""
+"To check your Job Listings and Applications visit %1$sEmployer Dashboard%2$s."
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:62
+msgid "To check your Job Listings visit %1$sEmployer Dashboard%2$s."
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:54
+msgid ""
+"To check your Resumes and Past Applications visit %1$sCandidate "
+"Dashboard%2$s."
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:69
+msgid "To check your Resumes visit %1$sCandidate Dashboard%2$s."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2540
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: envato_setup/importer/wordpress-importer.php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>"
+"admin</code>s entries."
+msgstr ""
+
+#: searchform.php:12
+msgid "To search type and hit enter"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-dimensions.php:129
+#: kirki/field/class-kirki-field-spacing.php:32
+msgid "Top"
+msgstr ""
+
+#: woocommerce/cart/cart.php:32 woocommerce/cart/cart.php:105
+msgid "Total"
+msgstr "Kokku"
+
+#: inc/customizer/footer.php:92
+msgid ""
+"Total width of footer is 12 columns, here you can decide layout based on "
+"columns number for each widget area in footer"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:72
+msgid "Total:"
+msgstr "Kokku:"
+
+#: inc/customizer/resume_home.php:127
+msgid "Transparent header"
+msgstr ""
+
+#: inc/customizer/jobs.php:134
+msgid "Transparent header on Jobs page"
+msgstr ""
+
+#: inc/customizer/resumes.php:89
+msgid "Turn it off for rectangular photos"
+msgstr ""
+
+#: inc/customizer/blog.php:96 inc/customizer/jobs.php:350
+#: job_manager/content-single-job_listing.php:132 single-company.php:77
+#: template-parts/content-single.php:39
+#: template-parts/single-job-classic.php:198 template-parts/single-job.php:179
+#: template-parts/single-job.php:305
+msgid "Twitter"
+msgstr "LinkedIn"
+
+#: inc/class-tgm-plugin-activation.php:2697
+msgid "Type"
+msgstr ""
+
+#: job_manager/form-fields/text-field.php:22
+#: search-fields/split-location.php:10 template-home-box.php:75
+#: template-home-resumes.php:82 template-home.php:81
+msgid "type and hit enter"
+msgstr "kirjuta ja vajuta enter"
+
+#: kirki/core/class-kirki-field.php:358
+msgid "Typo found in field %s - \"theme_mods\" vs \"theme_mod\""
+msgstr ""
+
+#: kirki/core/class-kirki-field.php:248
+msgid "Typo found in field %s - setting instead of settings."
+msgstr ""
+
+#: inc/customizer/typography.php:5
+msgid "Typography"
+msgstr ""
+
+#: kirki/modules/webfonts/class-kirki-fonts.php:218
+#: kirki/modules/webfonts/class-kirki-fonts.php:219
+msgid "Ultra-Bold 900"
+msgstr ""
+
+#: kirki/modules/webfonts/class-kirki-fonts.php:220
+msgid "Ultra-Bold 900 Italic"
+msgstr ""
+
+#: kirki/modules/webfonts/class-kirki-fonts.php:198
+#: kirki/modules/webfonts/class-kirki-fonts.php:199
+msgid "Ultra-Light 100"
+msgstr ""
+
+#: kirki/modules/webfonts/class-kirki-fonts.php:200
+msgid "Ultra-Light 100 Italic"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-typography.php:193
+msgid "Underline"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:30
+msgid ""
+"Unfortunately your order cannot be processed as the originating "
+"bank/merchant has declined your transaction."
+msgstr ""
+
+#: inc/woocommerce.php:32 template-jobpackages.php:122
+#: woocommerce/content-product.php:78
+#: woocommerce/single-product/tabs/description.php:38
+msgid "Unlimited number of jobs"
+msgstr "Avalda piiramatult töö- ja praktikapakkumisi"
+
+#: inc/woocommerce.php:54 woocommerce/content-product.php:104
+#: woocommerce/single-product/tabs/description.php:62
+msgid "Unlimited number of Resumes"
+msgstr ""
+
+#: template-resumepackages.php:124
+msgid "Unlimited number of resumes"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2873
+msgid "Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2756
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2544
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: wp-job-manager-bookmarks/bookmark-form.php:23
+msgid "Update Bookmark"
+msgstr "Uuenda"
+
+#: woocommerce/cart/cart.php:141
+msgid "Update Cart"
+msgstr "Uuenda andmeid"
+
+#: inc/class-tgm-plugin-activation.php:2481
+msgid "Update recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:617
+msgid "Update Required"
+msgstr ""
+
+#: envato_setup/envato_setup.php:1046
+msgid "Updating Plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3655
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:345
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: envato_setup/envato_setup_init.php:65
+msgid "Upgrade"
+msgstr ""
+
+#: envato_setup/envato_setup_init.php:66
+msgid "Upgrade Content and Settings"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2834
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/customizer/footer.php:17
+msgid "Upload logo for footer top area"
+msgstr ""
+
+#: inc/customizer/title_tagline.php:8
+msgid "Upload logo for your website"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2740
+msgid "Upload New Logo"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-typography.php:178
+msgid "Uppercase"
+msgstr ""
+
+#: inc/customizer/footer.php:156
+msgid "URL to profile page"
+msgstr ""
+
+#: inc/customizer/maps.php:25
+msgid "Use all jobs map"
+msgstr ""
+
+#: inc/customizer/maps.php:51
+msgid "Use all resumes map"
+msgstr ""
+
+#: inc/customizer/maps.php:89
+msgid "Use Job Type color for markers color"
+msgstr ""
+
+#: inc/customizer/jobs.php:125
+msgid "Used on Job archive page. Set image for header, should be 1920px wide"
+msgstr ""
+
+#: inc/customizer/jobs.php:173 inc/customizer/jobs.php:213
+msgid "Used on jobs lists"
+msgstr ""
+
+#: inc/customizer/resumes.php:53
+msgid ""
+"Used on Resumes archive page. Set image for header, should be 1920px wide"
+msgstr ""
+
+#: template-parts/login-custom.php:16 template-parts/login-um.php:19
+#: template-parts/login-woocommerce.php:16
+#: template-parts/login-workscout.php:25
+msgid "User Page"
+msgstr ""
+
+#: inc/customizer/header.php:133
+msgid "User Page button in header"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:85
+msgid "Username"
+msgstr "Kasutajanimi"
+
+#: woocommerce/myaccount/form-login.php:47
+msgid "Username or email address"
+msgstr ""
+
+#: inc/licenser.php:180
+msgid "Valid"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-typography.php:93
+msgid "Variant"
+msgstr ""
+
+#: woocommerce/single-product/review.php:52
+msgid "verified owner"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2701
+msgid "Version"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:95
+msgid "Very Poor"
+msgstr ""
+
+#: inc/mini_cart.php:47
+msgid "View Cart &rarr;"
+msgstr ""
+
+#: wp-job-manager-applications/job-applications.php:80
+msgid "View Resume"
+msgstr "Vaata CV-d"
+
+#: envato_setup/envato_setup.php:3009
+msgid "View your new website!"
+msgstr ""
+
+#: kirki/core/class-kirki-init.php:289
+msgid ""
+"We detected you're using Kirki_Init::get_variables(). Please use Kirki_Util::"
+"get_variables() instead."
+msgstr ""
+
+#: template-dashboard.php:33
+msgid ""
+"We don't have any users with that email address. Maybe you used a different "
+"one when signing up?"
+msgstr ""
+"Selle e-postiaadressiga kasutajat ei leitud. Kas kasutasid konto loomisel "
+"teist e-posti?"
+
+#: archive-company.php:19
+#, php-format
+msgid "We have %s companies in our database"
+msgstr "Hetkel lisatud %s tööandja profiili"
+
+#: template-home-old.php:113
+msgid "We have %s job offer for you!"
+msgid_plural "We have %s job offers for you!"
+msgstr[0] "Leidsime sulle %s pakkumist!"
+msgstr[1] "Leidsime sulle %s pakkumist!"
+
+#: archive-resume.php:73 resumes.php:21
+#: template-parts/archive-resumes-regular.php:22
+msgid "We have %s resumes in our database"
+msgstr ""
+
+#: archive-job_listing.php:202 template-parts/archive-jobs-regular.php:38
+msgid ""
+"We have <em class=\"count_jobs\">%s</em> <em class=\"job_text\">job "
+"offer</em> for you"
+msgid_plural ""
+"We have <em class=\"count_jobs\">%s</em> <em class=\"job_text\">job "
+"offers</em> for you"
+msgstr[0] ""
+"Leidsime sulle <em class=\"count_jobs\">%s</em> <em class=\"job_text\">"
+"pakkumise</em>!"
+msgstr[1] ""
+"Leidsime sulle <em class=\"count_jobs\">%s</em> <em class=\"job_text\">"
+"pakkumist</em>!"
+
+#: archive-job_listing.php:59 taxonomy-job_listing_category.php:67
+#: taxonomy-job_listing_region.php:67 taxonomy-job_listing_tag.php:67
+#: taxonomy-job_listing_type.php:67 template-jobs-fullpage.php:66
+#: template-parts/archive-jobs-split-view.php:50
+#, php-format
+msgid ""
+"We have <strong class=\"count_jobs\">%s</strong> <strong class=\"job_text\">"
+"job offer</strong> that could be the right fit!"
+msgid_plural ""
+"We have <strong class=\"count_jobs\">%s</strong> <strong class=\"job_text\">"
+"job offers</strong> that could be the right fit!"
+msgstr[0] ""
+msgstr[1] ""
+
+#: 404.php:31
+msgid "We're sorry, but the page you were looking for doesn't exist"
+msgstr ""
+
+#: content-single-company.php:40 inc/wp-job-manager.php:217
+#: job_manager/content-single-job_listing.php:92 single-company.php:66
+#: template-parts/single-job-classic.php:124 template-parts/single-job.php:168
+#: template-parts/single-job.php:204
+msgid "Website"
+msgstr "Karjäärileht"
+
+#: wp-job-manager-resumes/account-signin.php:6
+msgid "Welcome to"
+msgstr " "
+
+#: envato_setup/envato_setup.php:673 envato_setup/envato_setup.php:682
+#: envato_setup/envato_setup.php:702 envato_setup/envato_setup.php:881
+msgid "Welcome to the setup wizard for %s."
+msgstr ""
+
+#: template-home-resumes.php:53
+msgid "What candidate are you looking for?"
+msgstr "Millist kandidaati otsid?"
+
+#: template-home.php:52
+msgid "What job are you looking for?"
+msgstr ""
+
+#: template-home-resumes.php:61 template-home.php:60
+msgid "Where?"
+msgstr "Asukoht"
+
+#: envato_setup/envato_setup.php:1130
+msgid "Widgets"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-dimensions.php:136
+msgid "Width"
+msgstr ""
+
+#: inc/template-tags.php:47 inc/template-tags.php:82
+msgid "With % comments"
+msgstr ""
+
+#: inc/template-tags.php:47 inc/template-tags.php:82
+msgid "With 0 comments"
+msgstr ""
+
+#: inc/template-tags.php:47 inc/template-tags.php:82
+msgid "With 1 comment"
+msgstr ""
+
+#: inc/customizer/shop.php:31
+msgid ""
+"With this setting set to On, results count and order select on shop page "
+"will be displayed"
+msgstr ""
+
+#: kirki/controls/php/class-kirki-control-dimensions.php:128
+#: kirki/controls/php/class-kirki-control-typography.php:126
+msgid "Word Spacing"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "WordPress Job Board Theme"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2440
+msgid "WordPress Repository"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "WorkScout"
+msgstr ""
+
+#: inc/customizer/shop.php:3
+msgid "WorkScout Woo Settings"
+msgstr ""
+
+#: envato_setup/envato_setup.php:420
+msgid "WPJM Plugins"
+msgstr ""
+
+#: wp-job-manager-resumes/account-signin.php:10
+msgid "You are currently signed in as %s."
+msgstr "Oled sisse loginud kasutajaga %s."
+
+#: envato_setup/envato_setup.php:999
+msgid "You can add and remove plugins later on from within WordPress."
+msgstr ""
+
+#: wp-job-manager-resumes/apply-with-resume.php:42
+msgid ""
+"You can apply to this job and others using your online resume. Click the "
+"link below to submit your online resume and email your application to this "
+"employer."
+msgstr ""
+"Soovi korral saad kandideerimiseks luua süsteemis CV. Kliki allolevat nuppu!"
+
+#: inc/cmb2-meta-boxes.php:180 inc/cmb2-meta-boxes.php:208
+msgid ""
+"You can choose a sidebar from the list below. Sidebars can be created in the "
+"Theme Options and configured in the Appearance -> Widgets."
+msgstr ""
+
+#: wp-job-manager-bookmarks/my-bookmarks.php:49
+msgid "You currently have no bookmarks"
+msgstr "Sa ei ole veel järjehoidjaid lisanud."
+
+#: template-dashboard.php:23
+msgid "You do have an email address, right?"
+msgstr ""
+
+#: company-dashboard.php:37
+msgid "You do not have any active company listings."
+msgstr "Sul pole veel aktiivseid tööandja profiile."
+
+#: job_manager/job-dashboard.php:22
+msgid "You do not have any active listings."
+msgstr "Hetkel ei ole aktiivseid tööpakkumisi."
+
+#: wp-job-manager-resumes/candidate-dashboard.php:27
+msgid "You do not have any active resume listings."
+msgstr "Sul ei ole hetkel aktiivset CV-d."
+
+#: wp-job-manager-alerts/my-alerts.php:29
+msgid "You do not have any job alerts."
+msgstr "Sul ei ole aktiivseid teavitusi."
+
+#: template-dashboard.php:87
+msgid "You have forgot about password."
+msgstr ""
+
+#: template-dashboard.php:169 template-dashboard.php:216
+msgid "You have successfully registered to %s."
+msgstr ""
+
+#: template-dashboard.php:174 template-dashboard.php:221
+msgid ""
+"You have successfully registered to %s. We have emailed your password to the "
+"email address you entered."
+msgstr ""
+
+#: template-login.php:56
+msgid "You may change your password if you are so inclined."
+msgstr ""
+
+#: job_manager/account-signin.php:20
+msgid "You must sign in to create a new listing."
+msgstr "Töö- või praktikapakkumise lisamiseks logi sisse."
+
+#: wp-job-manager-resumes/account-signin.php:33
+msgid "You must sign in to submit a resume."
+msgstr "CV loomiseks logi sisse"
+
+#: wp-job-manager-applications/application-form-login.php:1
+msgid "You need to be signed in to apply for this position."
+msgstr "Kandideerimiseks pead olema sisse logitud."
+
+#: job_manager/job-dashboard-login.php:3
+msgid "You need to be signed in to manage your listings."
+msgstr "Töökuulutuste haldamiseks logi sisse."
+
+#: wp-job-manager-resumes/candidate-dashboard-login.php:3
+msgid "You need to be signed in to manage your resumes."
+msgstr "Oma CV-de haldamiseks logi enne sisse."
+
+#: template-dashboard.php:29
+msgid "You need to enter a password to login."
+msgstr ""
+
+#: job_manager/job-submit.php:92
+msgid ""
+"You need to select company before adding job listing. If you didn't add "
+"company profile yet click button below."
+msgstr ""
+"Töö- või praktikapakkumise lisamiseks vali soovitud tööandja profiil. Kui sa "
+"pole veel tööandja profiili loonud, klikka alloleval nupul."
+
+#: inc/customizer/jobs_home.php:299
+msgid "You will find stunning cliparts on https://storyset.com/"
+msgstr ""
+
+#: template-dashboard.php:69
+msgid "You're a bot, aren't you?."
+msgstr ""
+
+#: woocommerce/single-product/review.php:46
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: company-dashboard.php:20
+msgid "Your company can be viewed, edited or removed below."
+msgid_plural "Your companies can be viewed, edited or removed below."
+msgstr[0] ""
+"Allolevas tabelis saad oma tööandja profiili vaadata, muuta või kustutada."
+msgstr[1] ""
+"Allolevas tabelis saad oma tööandja profiile vaadata, muuta või kustutada."
+
+#: company-submitted.php:26
+msgid "Your company has been submitted successfully and is pending approval."
+msgstr ""
+
+#: company-submitted.php:22
+msgid "Your company has been submitted successfully."
+msgstr ""
+
+#: company-submitted.php:20
+#, php-format
+msgid ""
+"Your company has been submitted successfully. To view your company <a "
+"href=\"%s\">click here</a>."
+msgstr "Tööandja profiil edukalt lisatud! <a href=\"%s\">Näed seda siin ></a>"
+
+#: wp-job-manager-alerts/my-alerts.php:1
+msgid ""
+"Your job alerts are shown in the table below. Your alerts will be sent to %s."
+msgstr ""
+"Sinu teavitused on allolevas tabelis. Saadame need järgnevale e-maili "
+"aadressile: %s."
+
+#: wp-job-manager-applications/job-applications.php:74
+msgid "Your job application for %s"
+msgstr ""
+
+#: inc/licenser.php:227
+msgid "Your License Key:"
+msgstr ""
+
+#: job_manager/job-dashboard.php:2
+msgid "Your listings are shown in the table below."
+msgstr "Sinu tööpakkumised on allolevas tabelis."
+
+#: job_manager/ws-private-message-resume.php:11
+#: job_manager/ws-private-message.php:9
+msgid "Your message to "
+msgstr "Saadad sõnumi kasutajale: "
+
+#: inc/licenser.php:327
+msgid "Your Purchase Code"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:89
+msgid "Your Rating"
+msgstr ""
+
+#: wp-job-manager-resumes/candidate-dashboard.php:6
+msgid "Your resume can be viewed, edited or removed below."
+msgid_plural "Your resume(s) can be viewed, edited or removed below."
+msgstr[0] "Siin saad oma CV-d vaadata ja täiendada."
+msgstr[1] "Siin saad oma CV-sid vaadata ja täiendada."
+
+#: woocommerce/single-product-reviews.php:99
+msgid "Your Review"
+msgstr ""
+
+#: kirki/core/class-kirki-init.php:365
+msgid ""
+"Your theme uses a Font Awesome field for icons. To avoid issues with missing "
+"icons on your frontend we recommend you install the official Font Awesome "
+"plugin."
+msgstr ""
+
+#: inc/licenser.php:335
+msgid "Your ThemeForest Email Address"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2997
+msgid "Your Website is Ready!"
+msgstr ""
+
+#: envato_setup/envato_setup.php:971
+msgid ""
+"Your website needs a few essential plugins. The following plugins will be "
+"installed or updated:"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2371
+#: envato_setup/importer/wordpress-importer.php:928
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: inc/customizer/contact.php:18
+msgid "Zoom level for map"
+msgstr ""

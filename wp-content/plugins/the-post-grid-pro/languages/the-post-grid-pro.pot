@@ -1,0 +1,838 @@
+# Copyright (C) 2019 The Post Grid Pro
+# This file is distributed under the same license as the The Post Grid Pro package.
+msgid ""
+msgstr ""
+"Project-Id-Version: The Post Grid Pro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../lib/classes/rtTPGAjaxResponse.php:39, ../the-post-grid-pro/lib/classes/rtTPGAjaxResponse.php:39
+msgid "Server Error !!"
+msgstr ""
+
+#: ../lib/classes/rtTPGAjaxResponse.php:58, ../the-post-grid-pro/lib/classes/rtTPGAjaxResponse.php:58
+msgid "Success"
+msgstr ""
+
+#: ../lib/classes/rtTPGAjaxResponse.php:59, ../lib/classes/rtTPGOptions.php:353, ../the-post-grid-pro/lib/classes/rtTPGAjaxResponse.php:59, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:353
+msgid "Show All"
+msgstr ""
+
+#: ../lib/classes/rtTPGAjaxResponse.php:68, ../lib/classes/rtTPGAjaxResponse.php:95, ../lib/classes/rtTPGLicence.php:92, ../lib/classes/rtTPGLicence.php:192, ../lib/classes/rtTPGPreview.php:923, ../the-post-grid-pro/lib/classes/rtTPGAjaxResponse.php:68, ../the-post-grid-pro/lib/classes/rtTPGAjaxResponse.php:95, ../the-post-grid-pro/lib/classes/rtTPGLicence.php:92, ../the-post-grid-pro/lib/classes/rtTPGLicence.php:192, ../the-post-grid-pro/lib/classes/rtTPGPreview.php:923
+msgid "Session Error !!"
+msgstr ""
+
+#: ../lib/classes/rtTPGAjaxResponse.php:90, ../the-post-grid-pro/lib/classes/rtTPGAjaxResponse.php:90
+msgid "Settings successfully updated"
+msgstr ""
+
+#: ../lib/classes/rtTPGAjaxResponse.php:122, ../the-post-grid-pro/lib/classes/rtTPGAjaxResponse.php:122
+msgid "<div class=\"field-holder\">No Taxonomy found</div>"
+msgstr ""
+
+#: ../lib/classes/rtTPGAjaxResponse.php:126, ../lib/classes/rtTPGAjaxResponse.php:145, ../lib/classes/rtTPGAjaxResponse.php:186, ../lib/classes/rtTTPGTaxOrder.php:36, ../lib/classes/rtTTPGTaxOrder.php:65, ../lib/classes/rtTTPGTaxOrder.php:119, ../the-post-grid-pro/lib/classes/rtTPGAjaxResponse.php:126, ../the-post-grid-pro/lib/classes/rtTPGAjaxResponse.php:145, ../the-post-grid-pro/lib/classes/rtTPGAjaxResponse.php:186, ../the-post-grid-pro/lib/classes/rtTTPGTaxOrder.php:36, ../the-post-grid-pro/lib/classes/rtTTPGTaxOrder.php:65, ../the-post-grid-pro/lib/classes/rtTTPGTaxOrder.php:119
+msgid "Security error"
+msgstr ""
+
+#: ../lib/classes/rtTPGAjaxResponse.php:201, ../the-post-grid-pro/lib/classes/rtTPGAjaxResponse.php:201
+msgid "Select Short code"
+msgstr ""
+
+#: ../lib/classes/rtTPGAjaxResponse.php:203, ../lib/classes/rtTPGOptions.php:832, ../the-post-grid-pro/lib/classes/rtTPGAjaxResponse.php:203, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:832
+msgid "Default"
+msgstr ""
+
+#: ../lib/classes/rtTPGAjaxResponse.php:212, ../the-post-grid-pro/lib/classes/rtTPGAjaxResponse.php:212
+msgid "No shortCode found."
+msgstr ""
+
+#: ../lib/classes/rtTPGFrontEnd.php:32, ../the-post-grid-pro/lib/classes/rtTPGFrontEnd.php:32
+msgid "Product has been added to your cart."
+msgstr ""
+
+#: ../lib/classes/rtTPGFrontEnd.php:34, ../the-post-grid-pro/lib/classes/rtTPGFrontEnd.php:34
+msgid "Product not found"
+msgstr ""
+
+#: ../lib/classes/rtTPGFrontEnd.php:37, ../the-post-grid-pro/lib/classes/rtTPGFrontEnd.php:37
+msgid "Product not selected"
+msgstr ""
+
+#: ../lib/classes/rtTPGFrontEnd.php:41, ../the-post-grid-pro/lib/classes/rtTPGFrontEnd.php:41
+msgid "Wocommerce not Installed"
+msgstr ""
+
+#: ../lib/classes/rtTPGFrontEnd.php:130, ../lib/classes/rtTPGFrontEnd.php:230, ../the-post-grid-pro/lib/classes/rtTPGFrontEnd.php:130, ../the-post-grid-pro/lib/classes/rtTPGFrontEnd.php:230
+msgid "No item id found"
+msgstr ""
+
+#: ../lib/classes/rtTPGHelper.php:739, ../the-post-grid-pro/lib/classes/rtTPGHelper.php:739
+msgid "Share on facebook"
+msgstr ""
+
+#: ../lib/classes/rtTPGHelper.php:743, ../the-post-grid-pro/lib/classes/rtTPGHelper.php:743
+msgid "Share on twitter"
+msgstr ""
+
+#: ../lib/classes/rtTPGHelper.php:747, ../the-post-grid-pro/lib/classes/rtTPGHelper.php:747
+msgid "Share on google+"
+msgstr ""
+
+#: ../lib/classes/rtTPGHelper.php:751, ../the-post-grid-pro/lib/classes/rtTPGHelper.php:751
+msgid "Share on linkedin"
+msgstr ""
+
+#: ../lib/classes/rtTPGHelper.php:755, ../the-post-grid-pro/lib/classes/rtTPGHelper.php:755
+msgid "Share on pinterest"
+msgstr ""
+
+#: ../lib/classes/rtTPGHelper.php:760, ../the-post-grid-pro/lib/classes/rtTPGHelper.php:760
+msgid "Share on reddit"
+msgstr ""
+
+#: ../lib/classes/rtTPGHelper.php:1370, ../the-post-grid-pro/lib/classes/rtTPGHelper.php:1370
+msgid "Download"
+msgstr ""
+
+#: ../lib/classes/rtTPGInit.php:53, ../lib/classes/rtTPGVcInit.php:33, ../lib/vendor/RtElementorWidget.php:10, ../lib/vendor/RtElementorWidget.php:25, ../lib/widgets/RT_TPGWidget.php:15, ../the-post-grid-pro/lib/classes/rtTPGInit.php:53, ../the-post-grid-pro/lib/classes/rtTPGVcInit.php:33, ../the-post-grid-pro/lib/vendor/RtElementorWidget.php:10, ../the-post-grid-pro/lib/vendor/RtElementorWidget.php:25, ../the-post-grid-pro/lib/widgets/RT_TPGWidget.php:15
+msgid "The Post Grid Pro"
+msgstr ""
+
+#: ../lib/classes/rtTPGInit.php:54, ../the-post-grid-pro/lib/classes/rtTPGInit.php:54
+msgid "The Post Grid"
+msgstr ""
+
+#: ../lib/classes/rtTPGInit.php:55, ../the-post-grid-pro/lib/classes/rtTPGInit.php:55
+msgid "Add New Grid"
+msgstr ""
+
+#: ../lib/classes/rtTPGInit.php:56, ../the-post-grid-pro/lib/classes/rtTPGInit.php:56
+msgid "All Grids"
+msgstr ""
+
+#: ../lib/classes/rtTPGInit.php:57, ../the-post-grid-pro/lib/classes/rtTPGInit.php:57
+msgid "Add New Post Grid"
+msgstr ""
+
+#: ../lib/classes/rtTPGInit.php:58, ../the-post-grid-pro/lib/classes/rtTPGInit.php:58
+msgid "Edit Post Grid"
+msgstr ""
+
+#: ../lib/classes/rtTPGInit.php:59, ../the-post-grid-pro/lib/classes/rtTPGInit.php:59
+msgid "New Post Grid"
+msgstr ""
+
+#: ../lib/classes/rtTPGInit.php:60, ../the-post-grid-pro/lib/classes/rtTPGInit.php:60
+msgid "View Post Grid"
+msgstr ""
+
+#: ../lib/classes/rtTPGInit.php:61, ../the-post-grid-pro/lib/classes/rtTPGInit.php:61
+msgid "Search Post Grids"
+msgstr ""
+
+#: ../lib/classes/rtTPGInit.php:62, ../the-post-grid-pro/lib/classes/rtTPGInit.php:62
+msgid "No Post Grids found"
+msgstr ""
+
+#: ../lib/classes/rtTPGInit.php:63, ../the-post-grid-pro/lib/classes/rtTPGInit.php:63
+msgid "No Post Grids found in Trash"
+msgstr ""
+
+#: ../lib/classes/rtTPGInit.php:205, ../lib/classes/rtTPGInit.php:206, ../the-post-grid-pro/lib/classes/rtTPGInit.php:205, ../the-post-grid-pro/lib/classes/rtTPGInit.php:206
+msgid "Taxonomy Order"
+msgstr ""
+
+#: ../lib/classes/rtTPGInit.php:209, ../the-post-grid-pro/lib/classes/rtTPGInit.php:209
+msgid "Settings"
+msgstr ""
+
+#: ../lib/classes/rtTPGInit.php:243, ../the-post-grid-pro/lib/classes/rtTPGInit.php:243
+msgid "Demo"
+msgstr ""
+
+#: ../lib/classes/rtTPGInit.php:244, ../lib/views/settings/settings.php:7, ../the-post-grid-pro/lib/classes/rtTPGInit.php:244, ../the-post-grid-pro/lib/views/settings/settings.php:7
+msgid "Documentation"
+msgstr ""
+
+#: ../lib/classes/rtTPGLicence.php:47, ../lib/classes/rtTPGLicence.php:77, ../lib/classes/rtTPGLicence.php:122, ../lib/classes/rtTPGLicence.php:152, ../lib/classes/rtTPGLicence.php:180, ../the-post-grid-pro/lib/classes/rtTPGLicence.php:47, ../the-post-grid-pro/lib/classes/rtTPGLicence.php:77, ../the-post-grid-pro/lib/classes/rtTPGLicence.php:122, ../the-post-grid-pro/lib/classes/rtTPGLicence.php:152, ../the-post-grid-pro/lib/classes/rtTPGLicence.php:180
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: ../lib/classes/rtTPGLicence.php:54, ../lib/classes/rtTPGLicence.php:129, ../the-post-grid-pro/lib/classes/rtTPGLicence.php:54, ../the-post-grid-pro/lib/classes/rtTPGLicence.php:129
+msgid "Your license key expired on %s."
+msgstr ""
+
+#: ../lib/classes/rtTPGLicence.php:60, ../lib/classes/rtTPGLicence.php:135, ../the-post-grid-pro/lib/classes/rtTPGLicence.php:60, ../the-post-grid-pro/lib/classes/rtTPGLicence.php:135
+msgid "Your license key has been disabled."
+msgstr ""
+
+#: ../lib/classes/rtTPGLicence.php:63, ../lib/classes/rtTPGLicence.php:138, ../the-post-grid-pro/lib/classes/rtTPGLicence.php:63, ../the-post-grid-pro/lib/classes/rtTPGLicence.php:138
+msgid "Invalid license."
+msgstr ""
+
+#: ../lib/classes/rtTPGLicence.php:67, ../lib/classes/rtTPGLicence.php:142, ../the-post-grid-pro/lib/classes/rtTPGLicence.php:67, ../the-post-grid-pro/lib/classes/rtTPGLicence.php:142
+msgid "Your license is not active for this URL."
+msgstr ""
+
+#: ../lib/classes/rtTPGLicence.php:70, ../lib/classes/rtTPGLicence.php:145, ../the-post-grid-pro/lib/classes/rtTPGLicence.php:70, ../the-post-grid-pro/lib/classes/rtTPGLicence.php:145
+msgid "This appears to be an invalid license key for %s."
+msgstr ""
+
+#: ../lib/classes/rtTPGLicence.php:74, ../lib/classes/rtTPGLicence.php:149, ../the-post-grid-pro/lib/classes/rtTPGLicence.php:74, ../the-post-grid-pro/lib/classes/rtTPGLicence.php:149
+msgid "Your license key has reached its activation limit."
+msgstr ""
+
+#: ../lib/classes/rtTPGLicence.php:86, ../the-post-grid-pro/lib/classes/rtTPGLicence.php:86
+msgid "Successfully activated"
+msgstr ""
+
+#: ../lib/classes/rtTPGLicence.php:88, ../lib/classes/rtTPGOptions.php:168, ../the-post-grid-pro/lib/classes/rtTPGLicence.php:88, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:168
+msgid "Deactivate License"
+msgstr ""
+
+#: ../lib/classes/rtTPGLicence.php:89, ../lib/classes/rtTPGOptions.php:169, ../the-post-grid-pro/lib/classes/rtTPGLicence.php:89, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:169
+msgid "Activate License"
+msgstr ""
+
+#: ../lib/classes/rtTPGLoadMoreResponse.php:60, ../lib/classes/rtTPGPreview.php:67, ../lib/classes/rtTPGShortCode.php:146, ../lib/templates/layouts/isotope2.php:31, ../the-post-grid-pro/lib/classes/rtTPGLoadMoreResponse.php:60, ../the-post-grid-pro/lib/classes/rtTPGPreview.php:67, ../the-post-grid-pro/lib/classes/rtTPGShortCode.php:146, ../the-post-grid-pro/lib/templates/layouts/isotope2.php:31
+msgid "Read More"
+msgstr ""
+
+#: ../lib/classes/rtTPGLoadMoreResponse.php:62, ../lib/classes/rtTPGOptions.php:383, ../lib/classes/rtTPGOptions.php:389, ../lib/classes/rtTPGPreview.php:69, ../lib/classes/rtTPGShortCode.php:148, ../the-post-grid-pro/lib/classes/rtTPGLoadMoreResponse.php:62, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:383, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:389, ../the-post-grid-pro/lib/classes/rtTPGPreview.php:69, ../the-post-grid-pro/lib/classes/rtTPGShortCode.php:148
+msgid "Show all"
+msgstr ""
+
+#: ../lib/classes/rtTPGLoadMoreResponse.php:469, ../lib/classes/rtTPGOptions.php:582, ../lib/classes/rtTPGPreview.php:852, ../lib/classes/rtTPGShortCode.php:901, ../the-post-grid-pro/lib/classes/rtTPGLoadMoreResponse.php:469, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:582, ../the-post-grid-pro/lib/classes/rtTPGPreview.php:852, ../the-post-grid-pro/lib/classes/rtTPGShortCode.php:901
+msgid "No post found"
+msgstr ""
+
+#: ../lib/classes/rtTPGLoadMoreResponse.php:476, ../the-post-grid-pro/lib/classes/rtTPGLoadMoreResponse.php:476
+msgid "Shortcode Id not defined"
+msgstr ""
+
+#: ../lib/classes/rtTPGLoadMoreResponse.php:479, ../the-post-grid-pro/lib/classes/rtTPGLoadMoreResponse.php:479
+msgid "Session error"
+msgstr ""
+
+#: ../lib/classes/rtTPGMeta.php:25, ../the-post-grid-pro/lib/classes/rtTPGMeta.php:25
+msgid "Shortcode"
+msgstr ""
+
+#: ../lib/classes/rtTPGMeta.php:99, ../the-post-grid-pro/lib/classes/rtTPGMeta.php:99
+msgid "Short Code Generator"
+msgstr ""
+
+#: ../lib/classes/rtTPGMeta.php:107, ../the-post-grid-pro/lib/classes/rtTPGMeta.php:107
+msgid "Layout Preview"
+msgstr ""
+
+#: ../lib/classes/rtTPGMeta.php:160, ../the-post-grid-pro/lib/classes/rtTPGMeta.php:160
+msgid "Post Source"
+msgstr ""
+
+#: ../lib/classes/rtTPGMeta.php:162, ../the-post-grid-pro/lib/classes/rtTPGMeta.php:162
+msgid "Layout Settings"
+msgstr ""
+
+#: ../lib/classes/rtTPGMeta.php:164, ../the-post-grid-pro/lib/classes/rtTPGMeta.php:164
+msgid "Field Selection"
+msgstr ""
+
+#: ../lib/classes/rtTPGMeta.php:166, ../the-post-grid-pro/lib/classes/rtTPGMeta.php:166
+msgid "Style"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:25, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:25
+msgid "Ascending"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:26, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:26
+msgid "Descending"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:32, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:32
+msgid "IN — show posts which associate with one or more of selected terms"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:34, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:34
+msgid "NOT IN — show posts which do not associate with any of selected terms"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:36, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:36
+msgid "AND — show posts which associate with all of selected terms"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:42, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:42
+msgid "AND — show posts which match all settings"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:43, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:43
+msgid "OR — show posts which match one or more settings"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:49, ../lib/classes/rtTPGPreview.php:645, ../lib/classes/rtTPGShortCode.php:692, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:49, ../the-post-grid-pro/lib/classes/rtTPGPreview.php:645, ../the-post-grid-pro/lib/classes/rtTPGShortCode.php:692
+msgid "Meta value"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:50, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:50
+msgid "Meta value number"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:51, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:51
+msgid "Meta value datetime"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:57, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:57
+msgid "ID"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:58, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:58
+msgid "Title"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:59, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:59
+msgid "Created date"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:60, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:60
+msgid "Modified date"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:61, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:61
+msgid "Random"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:62, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:62
+msgid "Number of comments"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:63, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:63
+msgid "Menu Order"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:66, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:66
+msgid "Price"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:67, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:67
+msgid "AVG Rating"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:80, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:80
+msgid "Custom CSS"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:87, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:87
+msgid "Script before item load"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:94, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:94
+msgid "Script After item load"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:101, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:101
+msgid "After Loaded script"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:177, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:177
+msgid "Enter your license key"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:388, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:388
+msgid "Show all text"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:435, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:435
+msgid "Speed"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:439, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:439
+msgid "Auto play Speed in milliseconds"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:442, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:442
+msgid "Autoplay timeout"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:446, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:446
+msgid "Autoplay interval timeout"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:450, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:450
+msgid "Image column"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:459, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:459
+msgid "Desktop column"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:467, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:467
+msgid "Tab column"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:475, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:475
+msgid "Mobile column"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:542, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:542
+msgid "Image Type"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:550, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:550
+msgid "Title limit"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:551, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:551
+msgid "Title limit only integer number is allowed, Leave it blank for full title."
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:555, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:555
+msgid "Title limit type"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:562, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:562
+msgid "Excerpt limit"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:563, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:563
+msgid "Excerpt limit only integer number is allowed, Leave it blank for full excerpt."
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:567, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:567
+msgid "Excerpt Type"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:798, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:798
+msgid "Gutter / Padding"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:799, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:799
+msgid "Unit will be pixel, No need to give any unit. Only integer value will be valid.<br> Leave it blank for default"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:813, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:813
+msgid "Overlay opacity use only positive integer value"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:819, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:819
+msgid "Overlay top padding use only positive integer value, e.g : 20 (with out postfix like px, em, % etc). it will displayed by %"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:825, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:825
+msgid "Read more button border radius"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:826, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:826
+msgid "Leave it blank for default"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:830, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:830
+msgid "Title Position (Above or Below image)"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:834, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:834
+msgid "Above image"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:835, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:835
+msgid "Below image"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:837, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:837
+msgid "<span style='color:red'>Only Layout 1, Layout 12, Layout 14, Isotope1, Isotope8, Isotope10, Carousel Layout 1, Carousel Layout 8, Carousel Layout 10</span>"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:938, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:938
+msgid "Taxonomy filter"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:939, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:939
+msgid "Author filter"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:940, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:940
+msgid "Order - Sort retrieved posts by parameter"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:941, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:941
+msgid "Sort Order - Designates the ascending or descending order of the \"orderby\" parameter"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:942, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:942
+msgid "Search filter"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:962, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:962
+msgid "Layout 1"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:963, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:963
+msgid "Layout 2"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:964, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:964
+msgid "Layout 3"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:965, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:965
+msgid "Layout 4"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:966, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:966
+msgid "Layout 5"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:967, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:967
+msgid "Layout 6"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:968, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:968
+msgid "Layout 7"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:969, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:969
+msgid "Layout 8"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:970, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:970
+msgid "Layout 9"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:971, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:971
+msgid "Layout 10"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:972, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:972
+msgid "Layout 11"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:973, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:973
+msgid "Layout 12"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:974, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:974
+msgid "Layout 13"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:975, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:975
+msgid "Layout 14"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:976, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:976
+msgid "Layout 15"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:977, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:977
+msgid "Layout 16"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:978, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:978
+msgid "Layout 17 Gallery layout"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:979, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:979
+msgid "Offset 01"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:980, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:980
+msgid "Offset 02"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:981, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:981
+msgid "Offset 03"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:982, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:982
+msgid "Offset 04"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:983, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:983
+msgid "Isotope Layout 1"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:984, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:984
+msgid "Isotope Layout 2"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:985, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:985
+msgid "Isotope Layout 3"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:986, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:986
+msgid "Isotope Layout 4"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:987, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:987
+msgid "Isotope Layout 5"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:988, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:988
+msgid "Isotope Layout 6"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:989, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:989
+msgid "Isotope Layout 7"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:990, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:990
+msgid "Isotope Layout 8"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:991, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:991
+msgid "Isotope Layout 9"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:992, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:992
+msgid "Isotope Layout 10"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:993, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:993
+msgid "Isotope Layout 11"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:994, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:994
+msgid "Isotope Layout 12"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:995, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:995
+msgid "Carousel Layout 1"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:996, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:996
+msgid "Carousel Layout 2"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:997, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:997
+msgid "Carousel Layout 3"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:998, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:998
+msgid "Carousel Layout 4"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:999, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:999
+msgid "Carousel Layout 5"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:1000, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:1000
+msgid "Carousel Layout 6"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:1001, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:1001
+msgid "Carousel Layout 7"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:1002, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:1002
+msgid "Carousel Layout 8"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:1003, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:1003
+msgid "Carousel Layout 9"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:1004, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:1004
+msgid "Carousel Layout 10"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:1005, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:1005
+msgid "Carousel Layout 11"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:1006, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:1006
+msgid "Carousel Layout 12"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:1008, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:1008
+msgid "EDD Layout 1"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:1009, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:1009
+msgid "EDD Layout 2"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:1010, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:1010
+msgid "EDD Layout 3"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:1011, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:1011
+msgid "EDD Carousel Layout 1"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:1012, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:1012
+msgid "EDD Carousel Layout 2"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:1013, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:1013
+msgid "EDD Isotope Layout 1"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:1014, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:1014
+msgid "EDD Isotope Layout 2"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:1017, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:1017
+msgid "WooCommerce Layout 1"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:1018, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:1018
+msgid "WooCommerce Layout 2"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:1019, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:1019
+msgid "WooCommerce Layout 3"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:1020, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:1020
+msgid "WooCommerce Layout 4"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:1021, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:1021
+msgid "WooCommerce Carousel Layout 1"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:1022, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:1022
+msgid "WooCommerce Carousel Layout 2"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:1023, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:1023
+msgid "WooCommerce Isotope Layout 1"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:1024, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:1024
+msgid "WooCommerce Isotope Layout 2"
+msgstr ""
+
+#: ../lib/classes/rtTPGOptions.php:1044, ../the-post-grid-pro/lib/classes/rtTPGOptions.php:1044
+msgid "Rating (WooCommerce)"
+msgstr ""
+
+#: ../lib/classes/rtTPGPreview.php:409, ../lib/classes/rtTPGShortCode.php:459, ../the-post-grid-pro/lib/classes/rtTPGPreview.php:409, ../the-post-grid-pro/lib/classes/rtTPGShortCode.php:459
+msgid "All"
+msgstr ""
+
+#: ../lib/classes/rtTPGPreview.php:643, ../lib/classes/rtTPGPreview.php:650, ../lib/classes/rtTPGShortCode.php:690, ../lib/classes/rtTPGShortCode.php:697, ../the-post-grid-pro/lib/classes/rtTPGPreview.php:643, ../the-post-grid-pro/lib/classes/rtTPGPreview.php:650, ../the-post-grid-pro/lib/classes/rtTPGShortCode.php:690, ../the-post-grid-pro/lib/classes/rtTPGShortCode.php:697
+msgid "Sort By None"
+msgstr ""
+
+#: ../lib/classes/rtTPGPreview.php:668, ../lib/classes/rtTPGShortCode.php:715, ../the-post-grid-pro/lib/classes/rtTPGPreview.php:668, ../the-post-grid-pro/lib/classes/rtTPGShortCode.php:715
+msgid "Search..."
+msgstr ""
+
+#: ../lib/classes/rtTPGPreview.php:676, ../lib/classes/rtTPGShortCode.php:723, ../the-post-grid-pro/lib/classes/rtTPGPreview.php:676, ../the-post-grid-pro/lib/classes/rtTPGShortCode.php:723
+msgid "Loading ..."
+msgstr ""
+
+#: ../lib/classes/rtTPGPreview.php:756, ../lib/classes/rtTPGShortCode.php:805, ../the-post-grid-pro/lib/classes/rtTPGPreview.php:756, ../the-post-grid-pro/lib/classes/rtTPGShortCode.php:805
+msgid "Search"
+msgstr ""
+
+#: ../lib/classes/rtTPGPreview.php:881, ../lib/classes/rtTPGPreview.php:886, ../lib/classes/rtTPGShortCode.php:927, ../the-post-grid-pro/lib/classes/rtTPGPreview.php:881, ../the-post-grid-pro/lib/classes/rtTPGPreview.php:886, ../the-post-grid-pro/lib/classes/rtTPGShortCode.php:927
+msgid "Load More"
+msgstr ""
+
+#: ../lib/classes/rtTPGShortCode.php:965, ../the-post-grid-pro/lib/classes/rtTPGShortCode.php:965
+msgid "No shortCode found"
+msgstr ""
+
+#: ../lib/classes/rtTPGShortCode.php:979, ../the-post-grid-pro/lib/classes/rtTPGShortCode.php:979
+msgid "You are not permitted to view this content."
+msgstr ""
+
+#: ../lib/classes/rtTPGShortCode.php:985, ../the-post-grid-pro/lib/classes/rtTPGShortCode.php:985
+msgid "This is a restricted content, you need to logged in to view this content."
+msgstr ""
+
+#: ../lib/classes/rtTPGVcInit.php:44, ../the-post-grid-pro/lib/classes/rtTPGVcInit.php:44
+msgid "Short Code"
+msgstr ""
+
+#: ../lib/classes/rtTPGVcInit.php:48, ../the-post-grid-pro/lib/classes/rtTPGVcInit.php:48
+msgid "Short Code list"
+msgstr ""
+
+#: ../lib/classes/rtTTPGTaxOrder.php:24, ../the-post-grid-pro/lib/classes/rtTTPGTaxOrder.php:24
+msgid "Select one taxonomy"
+msgstr ""
+
+#: ../lib/classes/rtTTPGTaxOrder.php:30, ../lib/classes/rtTTPGTaxOrder.php:113, ../the-post-grid-pro/lib/classes/rtTTPGTaxOrder.php:30, ../the-post-grid-pro/lib/classes/rtTTPGTaxOrder.php:113
+msgid "No term found"
+msgstr ""
+
+#: ../lib/classes/rtTTPGTaxOrder.php:33, ../the-post-grid-pro/lib/classes/rtTTPGTaxOrder.php:33
+msgid "Select a post type"
+msgstr ""
+
+#: ../lib/classes/rtTTPGTaxOrder.php:62, ../the-post-grid-pro/lib/classes/rtTTPGTaxOrder.php:62
+msgid "No term in list"
+msgstr ""
+
+#: ../lib/classes/rtTTPGTaxOrder.php:116, ../the-post-grid-pro/lib/classes/rtTTPGTaxOrder.php:116
+msgid "Select a taxonomy"
+msgstr ""
+
+#: ../lib/models/rtTPGField.php:326, ../the-post-grid-pro/lib/models/rtTPGField.php:326
+msgid "Start"
+msgstr ""
+
+#: ../lib/models/rtTPGField.php:335, ../the-post-grid-pro/lib/models/rtTPGField.php:335
+msgid "End"
+msgstr ""
+
+#: ../lib/vendor/RtElementorWidget.php:35, ../the-post-grid-pro/lib/vendor/RtElementorWidget.php:35
+msgid "Post Grid"
+msgstr ""
+
+#: ../lib/widgets/RT_TPGWidget.php:14, ../the-post-grid-pro/lib/widgets/RT_TPGWidget.php:14
+msgid "Display the post grid."
+msgstr ""
+
+#: ../lib/widgets/RT_TPGWidget.php:45, ../the-post-grid-pro/lib/widgets/RT_TPGWidget.php:45
+msgid "Title:"
+msgstr ""
+
+#: ../lib/widgets/RT_TPGWidget.php:51, ../the-post-grid-pro/lib/widgets/RT_TPGWidget.php:51
+msgid "Select post grid"
+msgstr ""
+
+#: ../lib/templates/layouts/wc-carousel2.php:9, ../lib/templates/layouts/wc-isotope2.php:9, ../lib/templates/layouts/wc2.php:13, ../lib/templates/layouts/wc3.php:30, ../lib/templates/layouts/wc4.php:10, ../the-post-grid-pro/lib/templates/layouts/wc-carousel2.php:9, ../the-post-grid-pro/lib/templates/layouts/wc-isotope2.php:9, ../the-post-grid-pro/lib/templates/layouts/wc2.php:13, ../the-post-grid-pro/lib/templates/layouts/wc3.php:30, ../the-post-grid-pro/lib/templates/layouts/wc4.php:10
+msgid "Add To Cart"
+msgstr ""
+
+#: ../lib/views/settings/post-source.php:139, ../the-post-grid-pro/lib/views/settings/post-source.php:139
+msgid "If \"Meta value\", \"Meta value Number\" or \"Meta value datetime\" is chosen then meta key is required."
+msgstr ""
+
+#: ../lib/views/settings/settings.php:3, ../the-post-grid-pro/lib/views/settings/settings.php:3
+msgid "The Post Grid Settings"
+msgstr ""
+
+#: ../lib/views/settings/settings.php:4, ../the-post-grid-pro/lib/views/settings/settings.php:4
+msgid "General settings"
+msgstr ""
+
+#: ../lib/views/settings/settings.php:26, ../the-post-grid-pro/lib/views/settings/settings.php:26
+msgid "PopUp field selection"
+msgstr ""
+
+#: ../lib/views/settings/settings.php:28, ../the-post-grid-pro/lib/views/settings/settings.php:28
+msgid "Social Share"
+msgstr ""
+
+#: ../lib/views/settings/settings.php:30, ../the-post-grid-pro/lib/views/settings/settings.php:30
+msgid "Custom Script"
+msgstr ""
+
+#: ../lib/views/settings/settings.php:32, ../the-post-grid-pro/lib/views/settings/settings.php:32
+msgid "Other Settings"
+msgstr ""
+
+#: ../lib/views/settings/settings.php:34, ../the-post-grid-pro/lib/views/settings/settings.php:34
+msgid "Plugin License"
+msgstr ""
