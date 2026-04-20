@@ -1,0 +1,25 @@
+.env
+.env.local
+*.sql
+*.sql.gz
+*.tar
+*.tar.gz
+.DS_Store
+
+# backups and dumps
+/backups/*
+!/backups/.gitkeep
+
+# wordpress runtime content
+/wp-content/uploads/
+/wp-content/cache/
+/wp-content/upgrade/
+/wp-content/backup-*/
+
+# local/editor
+.vscode/
+.idea/
+
+# dependency caches
+node_modules/
+vendor/
