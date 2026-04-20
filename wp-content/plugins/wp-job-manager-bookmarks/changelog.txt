@@ -1,0 +1,10 @@
+*** WordPress Job Manager Bookmarks changelog ***
+
+2021-05-05 - version 1.4.3
+Fix: Prevent bookmarking other candidate's posts
+Enhancement: Add a template for the [my_bookmarks] shortcode for logged-out users
+
+2021-03-08 - version 1.4.2
+Enhancement: Add multi-site compatibility.
+Enhancement: Remove user bookmarks on user deletion.
+Enhancement: Add personal data exporter and eraser.

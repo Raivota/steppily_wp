@@ -1,0 +1,10 @@
+*** WordPress Job Manager Tags Changelog ***
+
+2023-05-08 - version 1.4.4
+Tweak: Update plugin headers.
+
+2023-02-01 - version 1.4.3
+Tweak: Update uninstall logic to depend on Job Manager setting and remove tags
+
+2021-03-08 - version 1.4.2
+Fix: jQuery 3.x compatibility

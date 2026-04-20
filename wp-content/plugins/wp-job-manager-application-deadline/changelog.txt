@@ -1,0 +1,8 @@
+*** WordPress Job Manager application deadline ***
+
+2023-05-05 - version 1.2.6
+Fix: Add check for post_type array index
+Fix: Change column title from "Closing Date" to "Closing"
+
+2021-04-14 - version 1.2.5
+Fix: Issue with ordering of job listings
